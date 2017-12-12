@@ -1,0 +1,35 @@
+.mall_top_three{
+	background: #0abfff;
+	overflow: hidden;
+	padding: .2962963rem .59259259rem;
+	padding-right: 0;
+}
+.search{
+	position: relative;
+}
+.search img{
+	position: absolute;
+	left: 0.426667rem;
+	top: 0.250667rem;
+	width: 1.066667rem;
+}
+.category_logo{
+    line-height: 1.365333rem;
+    float: right;
+    width: 52px;
+    text-align: center;
+    height: 1.493333rem;
+}
+.category_logo img{
+	width: 1.152rem;
+    vertical-align: middle;
+}
+.back{
+    line-height: 1.465333rem;
+    display: inline-block;
+    padding-right: 1.066667rem;
+}
+.back img{
+    height: 1.066667rem;
+    vertical-align: middle;
+}

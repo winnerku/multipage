@@ -1,0 +1,29 @@
+.use_card .myTitle{
+  color: #666;
+  line-height: 2.133333rem;
+  display: block;
+  background: #fff;
+  font-size: 0.768rem;
+  text-align: center;
+}
+.use_card .main{
+  min-height: 12.8rem;
+  margin-bottom: 2.133333rem;
+}
+.use_card .main h2{
+  text-align: center;
+  line-height: 50px;
+}
+.use_card .cardTip{
+  position: absolute;
+  top: 2.688rem;
+  right: 1.493333rem;
+  width: 0.810667rem;
+}
+.use_card .tip_text{
+  text-align: left;
+  margin-top: 0;
+  height: auto;
+  line-height: 1.28rem;
+  font-size: 0.597333rem;
+}

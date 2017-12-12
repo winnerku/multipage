@@ -1,0 +1,17 @@
+{
+    "code": 1,
+    "message": "SUCCESS",
+    "content": [{
+        "prizeId": 3,
+        "prizeName": "自拍杆",
+        "quantity": 2,
+        "drawTime": 1507956400000,
+        "isHit": true
+    }, {
+        "prizeId": 5,
+        "prizeName": "苹果X",
+        "quantity": 1,
+        "drawTime": 1507864031000,
+        "isHit": true
+    }]
+}

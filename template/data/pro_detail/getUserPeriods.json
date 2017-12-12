@@ -1,0 +1,13 @@
+{
+    "responseCode": 1,
+    "responseMessage": "SUCCESS",
+    "responseContent": [{
+        "periodNum": 6,
+        "periodText": "6期",
+        "isSelect": true
+    }, {
+        "periodNum": 12,
+        "periodText": "12期",
+        "isSelect": false
+    }]
+}

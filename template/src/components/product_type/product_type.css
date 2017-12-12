@@ -1,0 +1,23 @@
+.product_type{
+	width: 100%;
+	overflow: hidden;
+	background: #fff;
+	/*padding: 0.853333rem 0;*/
+	text-align: left;
+	margin-bottom: 0.426667rem;
+}
+.product_type .type_item{
+	display: inline-block;
+	text-decoration: none;
+	color: #666666;
+	width: 20%;
+	font-size: .59259259rem/* 20px */;
+	padding: .2962963rem 0.256rem;
+	text-align: center;
+}
+.product_type .type_item img{
+	width: 1.792rem;
+	margin: 0 auto;
+	margin-bottom: 0.213333rem;
+	display: block;
+}

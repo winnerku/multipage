@@ -1,0 +1,46 @@
+.mall_top_search{
+	background: #0abfff;
+	overflow: hidden;
+	padding: .2962963rem .59259259rem;
+}
+.inline{
+	float: left;
+}
+.search{
+	position: relative;
+    width: 78%;
+}
+.search img{
+	position: absolute;
+	right: 0.426667rem;
+	top: 0.250667rem;
+	width: 1.066667rem;
+}
+.category_logo{
+    line-height: 1.365333rem;
+    float: right;
+}
+.category_logo img{
+	width: 1.152rem;
+    vertical-align: middle;
+}
+.back{
+    line-height: 1.465333rem;
+    padding-right: 1.066667rem;
+}
+.back img{
+    height: 1.066667rem;
+    vertical-align: middle;
+}
+.product_name{
+	border: none;
+    height: 1.450667rem;
+    width: 100%;
+    background: #47cfff;
+    border-radius: .97777778rem/* 33px */;
+    padding-left: 0.853333rem;
+    font-size: 0.682667rem;
+    color: #fff;
+    outline: none;
+}
+.product_name::-webkit-input-placeholder{color:#fff;}

@@ -1,0 +1,135 @@
+body,#app{
+  font-family:Helvetica;
+	background: #f0efef !important;
+}
+
+#app::-webkit-scrollbar{
+  display: none;
+}
+#choose_card{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 100%;
+  z-index: 100000;
+  background: #f0efef;
+}
+.canUseCard,.unUseCard{
+  margin-bottom: 0.426667rem;
+  margin-top: 0.426667rem;
+}
+.canUseCard .subTitle,.unUseCard .subTitle{
+  list-style: none;
+  margin: 0;
+  line-height: 1.706667rem;
+  color: #666;
+  font-size: 0.682667rem;
+  background: #fff;
+  text-align: center;
+  color: #0abfff;
+}
+.unUseCard .subTitle{
+  color: #ccc;
+}
+#thelist .list_item{
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+    background: url(https://loanm.ppdaicdn.com/PPdaiStore/static/common/imgs/card_enable.jpg) no-repeat 50% 50%;
+    background-size: contain;
+    width: 100%;
+    height: 4.266667rem;
+    margin-top: 0.426667rem;
+    overflow: hidden;
+}
+#thelist .list_item.choosed{
+    background: url(https://loanm.ppdaicdn.com/PPdaiStore/static/common/imgs/card_choosed.jpg) no-repeat 50% 50%;
+    background-size: contain;
+}
+#thelist .list_item.unable{
+    background: url(https://loanm.ppdaicdn.com/PPdaiStore/static/common/imgs/card_unable.jpg) no-repeat 50% 50%;
+    background-size: contain;
+}
+#thelist .list_item .cardInfo{
+  height: 3.2rem;
+  width: 100%;
+}
+#thelist .list_item .cardInfo .amount{
+  color: #0abfff;
+  font-size: 1.92rem;
+  float: left;
+  width: 40%;
+  line-height: 3.2rem;
+  height: 3.2rem;
+  text-align: center;
+}
+#thelist .list_item .cardInfo .amount .unit{
+  font-size: 0.682667rem;
+}
+#thelist .list_item .cardInfo .instruction{
+  float: right;
+  width: 56%;
+  font-size: 0.682667rem;
+  color: #333;
+  line-height: 0.938667rem;
+  margin-top: 0.768rem;
+}
+#thelist .list_item .cardInfo .instruction .IdName{
+  display: inline-block;
+  width: 8.106667rem;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+#thelist .list_item .cardInfo .instruction .effectDate{
+  color: #999;
+  font-size: 0.64rem;
+}
+#thelist .list_item .tips{
+  line-height: 1.066667rem;
+  color: #999;
+  font-size: 0.512rem;
+  float: left;
+  margin-left: 1.066667rem;
+  width: 85%;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+#thelist .list_item.unable .cardInfo .amount,
+#thelist .list_item.unable .cardInfo .instruction,
+#thelist .list_item.unable .cardInfo .instruction .effectDate,
+#thelist .list_item.unable .tips
+{
+  color: #ccc;
+}
+.loading{
+    text-align: center;
+    width: 100%;
+    height: 60%;
+    position: absolute;
+    top: 4.48rem;
+    background: #f0efef;
+    z-index: 2;
+}
+.listNull{
+  width: 100%;
+  overflow: hidden;
+  padding-top: 2.133333rem;
+  text-align: center;
+  font-size: 0.768rem;
+  color: #666;
+  display: block;
+}
+.listNull img{
+  width: 3.413333rem;
+  margin-bottom: 0.682667rem;
+}
+.listNull p{
+  margin: 0;
+  line-height: 1.28rem;
+}
+.listNull p span{
+  color: #0abfff;
+}

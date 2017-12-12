@@ -1,0 +1,8 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS!",
+	"responseContent": {
+		"showFlag": true,
+		"tipMsg": "你有1000元额度未使用，请及时使用"
+	}
+}

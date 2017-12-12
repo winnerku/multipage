@@ -1,0 +1,55 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS",
+	"responseContent": {
+		"name": "秒杀14点场秒杀14点场",
+		"currentTime": "2017-07-31 10:08:13",
+		"startTime": "2017-06-09 14:00:00",
+		"endTime": "2017-08-31 14:59:59",
+		"productSkuList": [{
+			"productSkuId": 1064,
+			"name": "戴尔DELL灵越飞匣15ER-4725B 15.6英寸大屏笔记本电脑(i7-7500U 4G 1T M315 2G独显 FHD Win10) 官方标配",
+			"linkUrl": "/product/1064",
+			"pictureUrl": "https://file11info.ppdai.com/308a548905d947ef98adad1c71392be7.jpg",
+			"monthPayments": 96.55,
+			"months": 12,
+			"productSkuPrice": 5666,
+			"price": 1000,
+			"quantity": 10,
+			"saleOutQuantity": 4
+		}, {
+			"productSkuId": 1059,
+			"name": "美的 塔扇 FZ10-17ARW 白色FZ10-17ARW",
+			"linkUrl": "/product/1059",
+			"pictureUrl": "https://file11info.ppdai.com/ff03e764522b48a28e15a043bea07735.jpg",
+			"monthPayments": 9.55,
+			"months": 12,
+			"productSkuPrice": 2888,
+			"price": 99,
+			"quantity": 10,
+			"saleOutQuantity": 0
+		}, {
+			"productSkuId": 1039,
+			"name": "艾美特 璧扇 FW3521R 黑色FW3521R",
+			"linkUrl": "/product/1039",
+			"pictureUrl": "https://file11info.ppdai.com/46d6d3945e8543b8908a38e30b666b69.jpg",
+			"monthPayments": 57.93,
+			"months": 12,
+			"productSkuPrice": 999,
+			"price": 600,
+			"quantity": 10,
+			"saleOutQuantity": 2
+		}, {
+			"productSkuId": 1054,
+			"name": "美的（Midea）PSS5061P双胆5L智能饭煲电高压锅电压力锅 官方标配",
+			"linkUrl": "/product/1054",
+			"pictureUrl": "https://file11info.ppdai.com/fc7c65485d7f4d6c9b5f6ef20f0ca694.jpg",
+			"monthPayments": 289.68,
+			"months": 12,
+			"productSkuPrice": 3999,
+			"price": 3000,
+			"quantity": 10,
+			"saleOutQuantity": 5
+		}]
+	}
+}

@@ -1,0 +1,34 @@
+.PPD_buttom{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	overflow: hidden;
+	text-align: center;
+}
+.PPD_buttom a{
+	color: #fff;
+	line-height: 50px;
+	display: block;
+	font-size: 18px;
+}
+.PPD_buttom a:active{
+	opacity: 0.8;
+	-webkit-opacity:0.8;
+}
+.danger{
+	background:red !important;
+}
+.warn{
+	background:yellow !important;
+}
+.white{
+	background: #fff !important;
+}
+.normal{
+	background:#0abfff !important;
+}
+.disabled{
+	background: #ddd !important;
+	color: #fff;
+}

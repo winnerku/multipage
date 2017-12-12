@@ -1,0 +1,37 @@
+module.exports = {
+	'/avtm/getCateBanner':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/avtm/getCateBanner':'/data/category/getCateBanner.json'
+        }
+    },
+    '/category/getChildCategories':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/category/getChildCategories':'/data/category/getChildCategories.json'
+        }
+    },
+    '/category/getFirstLayerCategories':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/category/getFirstLayerCategories':'/data/category/getFirstLayerCategories.json'
+        }
+    },
+    '/product/searchSku':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/product/searchSku':'/data/category/searchSku.json'
+        }
+    },//跟searchPro返回的数据基本一致，只是为了区分筛选项
+    '/product/getBrandAndSeller':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/product/getBrandAndSeller':'/data/category/getBrandAndSeller.json'
+        }
+    },
+}

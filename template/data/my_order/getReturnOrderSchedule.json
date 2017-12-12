@@ -1,0 +1,13 @@
+{
+    "code": 1,
+    "message": "SUCCESS",
+    "content": [{
+        "status": 100,
+        "message": "发起退货申请",
+        "createTime": "2017-09-20 13:53:01"
+    }, {
+        "status": 101,
+        "message": "取消退货申请",
+        "createTime": "2017-09-20 13:55:32"
+    }]
+}

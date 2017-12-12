@@ -1,0 +1,32 @@
+{
+    "code": 1,
+    "message": "SUCCESS",
+    "content": [{
+        "userName": "rong8027681",
+        "mobile": "10005930924",
+        "userId": 5930924,
+        "prizeId": 3,
+        "prizeName": "自拍杆",
+        "quantity": 2,
+        "drawTime": 1507864188000,
+        "isHit": true
+    }, {
+        "userName": "rong8027681",
+        "mobile": "10005930924",
+        "userId": 5930924,
+        "prizeId": 5,
+        "prizeName": "苹果X",
+        "quantity": 1,
+        "drawTime": 1507864031000,
+        "isHit": true
+    }, {
+        "userName": "zoujie",
+        "mobile": "10005930924",
+        "userId": 5930923,
+        "prizeId": 5,
+        "prizeName": "苹果8",
+        "quantity": 1,
+        "drawTime": 1507864031000,
+        "isHit": true
+    }]
+}

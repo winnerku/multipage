@@ -1,0 +1,38 @@
+{
+    "responseCode": 1,
+    "responseMessage": "SUCCESS",
+    "responseContent": {
+        "brands": [{
+            "id": 1,
+            "name": "苹果/Apple"
+        },{
+            "id": 1,
+            "name": "华为"
+        },{
+            "id": 1,
+            "name": "华为"
+        },{
+            "id": 1,
+            "name": "华为"
+        }],
+        "sellers": [{
+            "id": 1,
+            "name": "飞牛网"
+        }, {
+            "id": 2,
+            "name": "纬雅"
+        }, {
+            "id": 9,
+            "name": null
+        }, {
+            "id": 10,
+            "name": "京东"
+        }, {
+            "id": 11,
+            "name": "京东"
+        }, {
+            "id": 12,
+            "name": "京东"
+        }]
+    }
+}

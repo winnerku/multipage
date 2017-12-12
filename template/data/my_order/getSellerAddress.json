@@ -1,0 +1,14 @@
+{
+    "code": 1,
+    "message": "SUCCESS",
+    "content": {
+        "province": "上海市",
+        "city": "上海市",
+        "area": "浦东新区",
+        "town": null,
+        "addressDetails": "郭守敬路369号",
+        "zipCode": "235698",
+        "contact": "张三",
+        "phone": "18818264753"
+    }
+}

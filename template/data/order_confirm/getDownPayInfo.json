@@ -1,0 +1,17 @@
+{
+  "responseCode": 1,
+  "responseMessage": "查询成功！",
+  "responseContent": {
+    "periodInfo": {
+      "downPaymentMoney": 2788,
+      "monthPaymentMoney": 0,
+      "months": 6,
+      "downPaymentMoneyString": "2788.00",
+      "monthPayments": "0.00"
+    },
+    "periodNums": [
+      6,
+      12
+    ]
+  }
+}

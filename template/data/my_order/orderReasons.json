@@ -1,0 +1,23 @@
+{
+	"code": 1,
+	"message": "SUCCESS",
+	"content": [{
+		"reasonId": 1,
+		"reasonDesc": "大小/尺寸与商品描述不符"
+	}, {
+		"reasonId": 2,
+		"reasonDesc": "颜色/图案/款式与商品描述不符"
+	}, {
+		"reasonId": 3,
+		"reasonDesc": "材质与商品描述不符"
+	}, {
+		"reasonId": 4,
+		"reasonDesc": "做工粗糙/有瑕疵"
+	}, {
+		"reasonId": 5,
+		"reasonDesc": "少发/漏发"
+	}, {
+		"reasonId": 6,
+		"reasonDesc": "卖家发错货"
+	}]
+}

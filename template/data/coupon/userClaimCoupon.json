@@ -1,0 +1,9 @@
+{
+	"code": 1,
+	"message": "SUCCESS",
+	"content": {
+		"couponId": 25,
+		"isClaimSuccess": true,
+		"code": 0
+	}
+}

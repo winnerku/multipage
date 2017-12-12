@@ -1,0 +1,11 @@
+{
+	"code": 1,
+	"message": "请求成功",
+	"content": {
+		"payCode": 3000, 
+		"payDesc": "",
+		"retValue": "http://www.baidu.com", 							
+		"payType": 2,
+		"orderNo": ""
+	}
+}

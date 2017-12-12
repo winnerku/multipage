@@ -1,0 +1,53 @@
+{
+    "responseCode": 1,
+    "responseMessage": "SUCCESS",
+    "responseContent": {
+        "canuse": [{
+            "couponId": 17,
+            "couponName": "hello",
+            "couponContent": "hello",
+            "state": 0,
+            "faceValue": 12,
+            "startTime": "2017-08-09",
+            "endTime": "2016-12-31",
+            "couponUniqueId": "603637493725201017"
+        }, {
+            "couponId": 17,
+            "couponName": "hello",
+            "couponContent": "hello",
+            "state": 0,
+            "faceValue": 12,
+            "startTime": "2017-08-09",
+            "endTime": "2016-12-31",
+            "couponUniqueId": "603637493725201017"
+        }],
+        "unuse": [{
+            "couponId": 17,
+            "couponName": "hello",
+            "couponContent": "hello",
+            "state": 0,
+            "faceValue": 12,
+            "startTime": "2017-08-09",
+            "endTime": "2016-12-31",
+            "couponUniqueId": "852150263907291017"
+        }, {
+            "couponId": 17,
+            "couponName": "hello",
+            "couponContent": "hello",
+            "state": 0,
+            "faceValue": 12,
+            "startTime": "2017-08-09",
+            "endTime": "2016-12-31",
+            "couponUniqueId": "852150263907291017"
+        }, {
+            "couponId": 17,
+            "couponName": "hello",
+            "couponContent": "hello",
+            "state": 0,
+            "faceValue": 12,
+            "startTime": "2017-08-09",
+            "endTime": "2016-12-31",
+            "couponUniqueId": "852150263907291017"
+        }]
+    }
+}

@@ -1,0 +1,37 @@
+module.exports = {
+    '/userCoupon/getUserCoupons':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/userCoupon/getUserCoupons':'/data/my_card/getUserCoupons.json'
+        }
+    },
+    '/user/userCoupons':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/user/userCoupons':'/data/order_confirm/userCoupons.json'
+        }
+    },
+    '/product/getSkuProSimple':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/product/getSkuProSimple':'/data/order_confirm/getSkuProSimple.json'
+        }
+    },
+    '/newOrder/dispPrice':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/newOrder/dispPrice':'/data/order_confirm/dispPrice.json'
+        }
+    },
+    '/newOrder/submit':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/newOrder/submit':'/data/order_confirm/submit.json'
+        }
+    }
+}

@@ -1,0 +1,167 @@
+.myCollectTitle{
+  color: #666;
+  line-height: 2.133333rem;
+  display: block;
+  background: #fff;
+  font-size: 0.768rem;
+  text-align: center;
+  border-bottom: solid 1px #ededed;
+}
+#wrapper {
+    position:relative; 
+    z-index:1;
+    top:0;
+    bottom:0;
+    left:0;
+    width:100%;
+    background:#f0efef;
+    overflow:auto;
+    padding: 0;
+}
+#pullUp {
+    height:1.706667rem;
+    line-height:1.706667rem;
+    padding:0.213333rem 0.426667rem;
+    font-weight:bold;
+    font-size:0.597333rem;
+    color:#888;
+    text-align: center;
+}
+#pullUp .pullUpIcon {
+   display:block; float:left;
+   width:1.706667rem; height:1.706667rem;
+   -webkit-background-size:1.706667rem 3.413333rem; 
+   background-size:1.706667rem 3.413333rem;
+   -webkit-transition-property:-webkit-transform;
+   -webkit-transition-duration:250ms; 
+  }
+.pullDownIcon {
+   -webkit-transform:rotate(0deg) translateZ(0);
+  }
+#pullUp .pullUpIcon {
+    -webkit-transform:rotate(-180deg) translateZ(0);
+}
+#thelist .list_item{
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+    background: #fff;
+    width: 100%;
+    margin-top: 10px;
+}
+#thelist .list_item .top{
+	line-height: 1.578667rem;
+	font-size: 0.554667rem;
+	border-bottom: solid 1px #ededed;
+	color: #666;
+	overflow: hidden;
+	padding: 0 0.426667rem;
+}
+#thelist .list_item img{
+	width: 3.626667rem;
+	padding: 0.213333rem;
+	border:solid 1px #ededed;
+}
+#thelist .list_item .content{
+	padding: 0.853333rem 0.426667rem;
+	overflow: hidden;
+}
+#thelist .list_item .content .left{
+	width: 20%;
+}
+#thelist .list_item .content .right{
+	width: 74%;
+}
+#thelist .list_item .skuName{
+  font-size: 0.64rem;
+  color: #999;
+  margin: 0;
+  line-height: 0.853333rem;
+  margin-bottom: 0.213333rem;
+}
+#thelist .list_item .order_title{
+	font-size: 0.64rem;
+	color: #333;
+	margin:0;
+	line-height: 1.066667rem;
+  white-space:nowrap; 
+  overflow:hidden; 
+  text-overflow:ellipsis;
+}
+#thelist .list_item .order_address,#thelist .list_item .order_id{
+	font-size: 0.597333rem;
+	color: #999;
+	margin:0;
+	white-space:nowrap; 
+	overflow:hidden; 
+	text-overflow:ellipsis;
+	line-height: 0.853333rem;
+}
+#thelist .list_item .operate{
+ 	padding: 0.341333rem 0.896rem;
+  border-radius: 0.213333rem;
+  background: #0abfff;
+  color: #fff;
+  font-size: 0.597333rem;
+  margin-top: 0.426667rem;
+  display: inline-block;
+}
+#thelist .list_item .none{
+  display: none!important;
+}
+#thelist .list_item .cancel{
+  padding: 0.341333rem 0.896rem;
+  border-radius: 0.213333rem;
+  font-size: 0.597333rem;
+  margin-top: 0.426667rem;
+  display: inline-block;
+ 	background: #fff;
+ 	border: solid 1px #0abfff;
+ 	color: #0abfff;
+}
+#thelist .list_item .operate.hide{
+ 	display: none
+}
+#thelist .list_item .operate:active{
+	opacity: 0.8;
+}
+.weui-loading {
+    width: 0.64rem;
+    height: 0.64rem;
+    margin-right: 0.213333rem;
+    display: inline-block;
+    vertical-align: middle;
+    background: url(./imgs/loading.gif) no-repeat;
+    background-size: 100%;
+}
+.listNull{
+  width: 100%;
+  overflow: hidden;
+  padding-top: 50px;
+  text-align: center;
+  font-size: 18px;
+  color: #333;
+  display: block;
+}
+.isOver{
+  font-size: 0.64rem;
+  color: #666;
+  text-align: center;
+  line-height: 1.706667rem;
+}
+.listNull img{
+  width: 80px;
+  margin-bottom: 16px;
+}
+.listNull p{
+  margin: 0;
+  line-height: 30px;
+}
+.weui-dialog__bd{
+  min-height: 3.626667rem!important;
+}
+.weui-toast{
+    width: 5.12rem;
+    height: 5.12rem;
+    font-size: 0.682667rem;
+}

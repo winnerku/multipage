@@ -1,0 +1,180 @@
+body,#app{
+    font-family:Helvetica;
+    width: 100%;
+    overflow-x: hidden;
+	background: #f0efef !important;
+}
+.order_confirm{
+	color: #666;
+	line-height: 2.133333rem;
+	display: block;
+	background: #fff;
+	font-size: 0.768rem;
+	text-align: center;
+	position: relative;
+}
+.weui-toast{
+    width: 5.6rem!important;
+    min-height: 5.6rem!important;
+}
+.errorTip .weui-toast{
+    min-height: auto!important;
+    padding: 0.213333rem;
+    line-height: 1.066667rem;
+}
+.weui-toast__content{
+    font-size: 0.682667rem;
+}
+.weui-icon_toast.weui-loading{
+    width: 1.066667rem;
+    height: 1.066667rem;
+    margin: 1.28rem 0 0.853333rem;
+}
+.collect_order{
+    position: absolute;
+    top: 0.384rem;
+    right: 0.512rem;
+    border: 1px solid #0abfff;
+    padding: 0.170667rem 0.298667rem;
+    font-size: 0.682667rem;
+    color: #0abfff;
+    line-height: 0.853333rem;
+    border-radius: 0.213333rem;
+}
+.collect_order.active{
+    background: #0abfff;
+    color: #fff;
+}
+.weui-dialog{
+    width: 82% !important;
+    max-width:82% !important;
+    transform: translate( -50%, -50% );
+    -webkit-transform: translate( -50%, -50% );
+    -ms-transform: translateX(-50%) translateY(-50%);
+}
+.tip_text{
+    height: 2.12rem;
+    line-height: 1.066667rem;
+    font-size: 0.64rem;
+}
+.still_money{
+    color: #0abfff;
+}
+.saleCard{
+    overflow: hidden;
+    bottom: 8.746667rem;
+    background: #fff;
+    width: 100%;
+    margin-top: 1.28rem;
+    border-top: solid 1px #ededed;
+}
+.payInfo{
+    margin-bottom: 4.266667rem;
+    padding: 0;
+    overflow: hidden;
+    margin-bottom: 2.133333rem;
+    background: #fff;
+    width: 100%;
+    margin-top: 0.426667rem;
+    border-top: solid 1px #ededed;
+}
+.payInfo .content{
+    padding: 0 0.64rem;
+}
+.payInfo .title{
+    font-size: 0.768rem;
+    color: #000;
+    margin: 0;
+    line-height: 2.133333rem;
+    border-top: 1px solid #f0efef;
+}
+.payInfo .title span{
+    float: right;
+    font-weight: bold;
+}
+.payInfo .infoRow{
+    font-size: 0.682667rem;
+    color: #333;
+    line-height: 1.706667rem;
+}
+.payInfo .infoRow i{
+    color: red;
+    font-style: normal;
+}
+.payInfo .infoRow span{
+    float: right;
+}
+
+
+
+.saleCard .name{
+    font-size: 0.668rem;
+    color: #666;
+    line-height: 2.133333rem;
+    text-align: center;
+    padding: 0 0.512rem;
+}
+.saleCard .cardNumber{
+    color: red;
+    font-size: 0.582667rem;
+}
+.saleCard .name .cardId{
+    display: inline-block;
+    max-width: 6.68rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.92rem;
+    vertical-align: middle;
+}
+.saleCard img{
+    width: .597333rem;
+    margin-top: .597333rem;
+    margin-right: 0.426667rem;
+}
+.saleCard .useCardLink{
+    display: block;
+    overflow: hidden;
+}
+.loadingDrools{
+    position: absolute;
+    top: 2.005333rem;
+    left: 0;
+    width: 100%;
+    height: 93%;
+    background: #f0efef;
+    z-index: 10000;
+}
+.loadingDrools .weui-toast{
+    background: transparent;
+    width: 11.6em!important;
+    margin-left: -5.8em;
+    font-size: 0.682667rem;
+    top: 2.133333rem;
+}
+.loadingDrools .weui-loading{
+    width: 2.261333rem!important;
+    height: 2.261333rem!important;
+}
+.loadingDrools .weui-toast__content{
+    color:#666;
+    line-height: 1.066667rem;
+    top: 6.4rem;
+}
+.loadingDrools .listNull{
+  width: 100%;
+  overflow: hidden;
+  padding-top: 2.133333rem;
+  text-align: center;
+  font-size: 0.682667rem;
+  color: #666;
+  display: block;
+}
+.loadingDrools .listNull img{
+  width: 3.413333rem;
+  margin-bottom: 0.682667rem;
+}
+.loadingDrools .listNull p{
+  margin: 0;
+  line-height: 1.28rem;
+}

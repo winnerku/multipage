@@ -1,0 +1,45 @@
+{
+	"responseCode": 1,
+	"responseMessage": "你还没有收藏任何商品！",
+	"responseContent": {
+		"pageIndex": 0,
+		"pageSize": 0,
+		"hasNext": true,
+		"collectSkuInfoList": [{
+			"collectTime": "2017-08-01 14:27:49",
+			"saleStatus": 1,
+			"skuDesc": "【年中大促，直降200】荣耀畅玩6X 全网通4G手机 高配版 送一年碎屏险 铂光金3GB+32G",
+			"skuImgUrl": "https://file11info.ppdai.com/822446b03102444686c35b965ca474d0.jpg",
+			"skuName": "铂光金3GB+32G",
+			"skuSaleUrl": "/product/152"
+		}, {
+			"collectTime": "2017-08-01 14:27:49",
+			"saleStatus": 1,
+			"skuDesc": "【年中大促，直降200】荣耀畅玩6X 全网通4G手机 高配版 送一年碎屏险 铂光金3GB+32G",
+			"skuImgUrl": "https://file11info.ppdai.com/822446b03102444686c35b965ca474d0.jpg",
+			"skuName": "铂光金3GB+32G",
+			"skuSaleUrl": "/product/152"
+		}, {
+			"collectTime": "2017-08-01 14:27:49",
+			"saleStatus": 1,
+			"skuDesc": "【年中大促，直降200】荣耀畅玩6X 全网通4G手机 高配版 送一年碎屏险 铂光金3GB+32G",
+			"skuImgUrl": "https://file11info.ppdai.com/822446b03102444686c35b965ca474d0.jpg",
+			"skuName": "铂光金3GB+32G",
+			"skuSaleUrl": "/product/152"
+		}, {
+			"collectTime": "2017-08-01 14:27:49",
+			"saleStatus": 1,
+			"skuDesc": "【年中大促，直降200】荣耀畅玩6X 全网通4G手机 高配版 送一年碎屏险 铂光金3GB+32G",
+			"skuImgUrl": "https://file11info.ppdai.com/822446b03102444686c35b965ca474d0.jpg",
+			"skuName": "铂光金3GB+32G",
+			"skuSaleUrl": "/product/152"
+		}, {
+			"collectTime": "2017-08-01 14:27:49",
+			"saleStatus": 1,
+			"skuDesc": "【年中大促，直降200】荣耀畅玩6X 全网通4G手机 高配版 送一年碎屏险 铂光金3GB+32G",
+			"skuImgUrl": "https://file11info.ppdai.com/822446b03102444686c35b965ca474d0.jpg",
+			"skuName": "铂光金3GB+32G",
+			"skuSaleUrl": "/product/152"
+		}]
+	}
+}

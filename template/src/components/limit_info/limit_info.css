@@ -1,0 +1,51 @@
+.limit_info{
+	color: #666;
+	width: 100%;
+	background: #fff;
+	padding: 0.64rem 0.853333rem;
+	font-size: 0.682667rem;
+	overflow: hidden;
+	margin-bottom: 0.426667rem;
+}
+.limit_info .logo{
+	text-align: center;
+	width: 20%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	line-height: 1.109333rem;
+}
+.limit_info .logo img{
+	border-radius: 1.28rem;
+	width: 2.346667rem;
+	height: 2.346667rem;
+}
+.limit_info .limit{
+	width: 80%;
+	display:-webkit-flex;
+	display:flex;
+	position: relative;
+}
+.limit_info .limit{
+	display:-webkit-flex;
+	width: 77%;
+	display:flex;
+	height:3.626667rem;
+	list-style:none;
+	-webkit-align-items:center;
+	align-items:center;
+	overflow: hidden;
+}
+.limit_info .limit li{
+	text-align: center;
+	margin: 0 0.426667rem;
+	line-height: 1.152rem;
+	display: inline-block;
+	float: left;
+}
+.limit_info .limit .limit_tip_show{
+    position: absolute;
+    right: -0.256rem;
+    top: 1.962667rem;
+    color: #0abfff;
+    font-size: 0.64rem;
+}

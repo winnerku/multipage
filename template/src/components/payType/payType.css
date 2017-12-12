@@ -1,0 +1,135 @@
+p{
+	font-size: 0.768rem;
+}
+.payType .chooseType,.payType .payInfo{
+	background: #fff;
+	padding: 1px 0.426667rem;
+	margin-top: 0.426667rem;
+}
+.payType .type{
+	border-radius: 0.213333rem;
+	border: 1px solid #f0efef;
+	margin: 0.853333rem 0;
+}
+.payType .type.active .typeDetail{
+	display: block;
+}
+.payType .type .typeDetail{
+	border-top: 1px solid #f0efef;
+	display: none;
+}
+.payType .type .bankPay{
+	border-bottom: 1px solid #f0efef;
+	padding: 10px;
+}
+.payType .type .bankPay .bankInfo span{
+	font-size: 0.597333rem;
+	color: #666;
+}
+.payType .type .bankPay p,.payType .type .weixinPay p{
+	margin: 0;
+	padding: 0;
+}
+.payType .type .bankPay .inline,.payType .type .weixinPay .inline{
+	vertical-align: middle;
+}
+.payType .type .bankPay .logo img,.payType .type .weixinPay .logo img{
+	width: 1.493333rem;
+	margin-right: 0.426667rem;
+}
+.payType .type .bankPay .choose,.payType .type .weixinPay .choose{
+	display: none;
+}
+.payType .type .bankPay.active .choose,.payType .type .weixinPay.active .choose{
+	display: block;
+}
+.payType .type .bankPay .choose img,.payType .type .weixinPay .choose img{
+	width: 0.853333rem;
+	margin-top: 0.64rem;
+}
+.payType .type .weixinPay{
+	padding: 0.426667rem;
+}
+.payType .type .typeDetail .weui-cell{
+	padding: 0 0.64rem;
+}
+.payType .availableLimit{
+	font-size: 0.768rem;
+	color: #333;
+	margin-left: 0.426667rem;
+}
+.payType .availableLimit span{
+	color: #0abfff;
+}
+.payType .type label.type_item{
+	font-size: 0.768rem;
+	display: block;
+	padding: 0.426667rem;
+}
+.payType .type input{
+    float: right;
+    width: 0.853333rem;
+    height: 0.853333rem;
+}
+.payType .period_list{
+	text-align: left;
+}
+.payType .period_list .period{
+	width: 46%;
+    border-radius: 0.426667rem;
+    background: #f6f6f6;
+    display: inline-block;
+    text-align: center;
+    padding: 0.426667rem 0;
+    margin-left: 0.426667rem;
+    margin-bottom: 0.426667rem;
+    color: #666;
+}
+.payType .period_list .period.active{
+	color: #fff;
+	background: #0abfff;
+}
+.payType .period_list .period p{
+    font-size: 0.597333rem;
+    line-height: 1.024rem;
+    margin: 0;
+}
+.payType .payInfo{
+	margin-bottom: 2.986667rem;
+	padding: 0 0.426667rem;
+}
+.payType .payInfo .content{
+	padding: 0 0.426667rem;
+}
+.payType .payInfo .title{
+    font-size: 0.853333rem;
+    color: #000;
+    margin: 0;
+    line-height: 2.133333rem;
+    border-bottom: 1px solid #f0efef;
+    padding: 0 0.426667rem;
+}
+.payType .payInfo .title span{
+	float: right;
+    font-size: 0.64rem;
+    color: #999;
+}
+.payType .toBindCard{
+	text-align: center;
+	width: 100%;
+	line-height: 2.56rem;
+	border-bottom: 1px solid #f0efef;
+	font-size: 0.682667rem;
+}
+.payType .payInfo .infoRow{
+	font-size: 0.725333rem;
+    color: #333;
+    line-height: 1.92rem;
+    border-bottom: 1px solid #f0efef;
+}
+.payType .payInfo .infoRow span{
+	float: right;
+}
+.payType .ajaxLoading .weui-toast{
+	min-height:5.6rem;
+}

@@ -1,0 +1,13 @@
+{
+    "code": 1,
+    "message": "SUCCESS",
+    "content": [{
+        "name": "测试---",
+        "linkUrl": "www.baidu.com",
+        "pictureUrl": "https://file11info.ppdai.com/f52704e52a0e48928e462413508c7ad4.png",
+        "price": null,
+        "monthPayments": null,
+        "months": null,
+        "iconTypeName": null
+    }]
+}

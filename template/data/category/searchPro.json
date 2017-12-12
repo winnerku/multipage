@@ -1,0 +1,100 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS",
+	"responseContent": {
+		"product004List": [{
+			"name": "【金秋约惠】索尼（SONY） DSC-H400 长焦数码相机 黑色（2010万有效像素 3英寸液晶屏 63倍光学变 25mm广角 黑色官方标配",
+			"hotWords": "",
+			"iconTypeName": "",
+			"linkUrl": "/product/966",
+			"pictureUrl": "https://file11info.ppdai.com/f5e1f4008a5f456aa9a74a9984b9d49d.jpg",
+			"price": 1799,
+			"monthPayments": 173.72,
+			"months": 12
+		}, {
+			"name": "【京东配送】索尼（SONY） DSC-WX500 数码相机 白色（1820万有效像素3英寸180度可翻转屏 30倍光学变焦 Wi-Fi分享上传 白色",
+			"hotWords": "",
+			"iconTypeName": "",
+			"linkUrl": "/product/4104",
+			"pictureUrl": "https://file11info.ppdai.com/801fcb17495a4e8a8501c01609a6b0ca.jpg",
+			"price": 1849,
+			"monthPayments": 178.54,
+			"months": 12
+		}, {
+			"name": "【金秋约惠】佳能（Canon）EOS 750D 单反套机 (EF-S 18-55mm f/3.5-5.6 IS STM镜头) 黑色官方标配",
+			"hotWords": "",
+			"iconTypeName": "热卖",
+			"linkUrl": "/product/967",
+			"pictureUrl": "https://file11info.ppdai.com/b52a8575cf7c4cc599e02e6c6c2feec0.jpg",
+			"price": 4399,
+			"monthPayments": 424.78,
+			"months": 12
+		}, {
+			"name": "Canon/佳能 EOS 1300D 套机 18-55IS III 黑色EOS",
+			"hotWords": "",
+			"iconTypeName": "",
+			"linkUrl": "/product/826",
+			"pictureUrl": "https://file11info.ppdai.com/2b5413b67bde4a3e9cd85c7be541ad57.jpg",
+			"price": 2499,
+			"monthPayments": 241.31,
+			"months": 12
+		}, {
+			"name": "尼康（Nikon）D3400 入门单反相机（AF-P DX 尼克尔 18-55mm f3.5-5.6G VR防抖镜头 ） 黑色",
+			"hotWords": "",
+			"iconTypeName": "",
+			"linkUrl": "/product/3094",
+			"pictureUrl": "https://file11info.ppdai.com/176ed66e904a46e39c81d29452821cfa.jpg",
+			"price": 3099,
+			"monthPayments": 299.25,
+			"months": 12
+		}, {
+			"name": "【金秋约惠】索尼（SONY）ILCE-5000L APS-C微单单镜套机 （2010万有效像素 16-50mm镜头 F3.5-5.6 a5000L/α5000） 黑色APS-C画幅/2000万像素",
+			"hotWords": "",
+			"iconTypeName": "",
+			"linkUrl": "/product/2038",
+			"pictureUrl": "https://file11info.ppdai.com/e4e2ffae57bc4fd2b34d7b874bdf84ff.jpg",
+			"price": 2099,
+			"monthPayments": 202.68,
+			"months": 12
+		}, {
+			"name": "索尼 HDR-CX405高清闪存数码摄像机 黑色HDR-CX405",
+			"hotWords": "",
+			"iconTypeName": "",
+			"linkUrl": "/product/820",
+			"pictureUrl": "https://file11info.ppdai.com/60f4e9ce5fa74c3c8b160e74ce604020.jpg",
+			"price": 1758,
+			"monthPayments": 169.76,
+			"months": 12
+		}, {
+			"name": "卡西欧EX-TR750 3.5英寸大屏、双LED灯、天使之眼 白色",
+			"hotWords": "",
+			"iconTypeName": "",
+			"linkUrl": "/product/655",
+			"pictureUrl": "https://file11info.ppdai.com/63269f276b084d91a1bd9c876addbac4.jpg",
+			"price": 5699,
+			"monthPayments": 550.31,
+			"months": 12
+		}, {
+			"name": "尼康（Nikon）D5600 单反套机（AF-P DX 尼克尔 18-55mm f3.5-5.6G VR） 黑色",
+			"hotWords": "",
+			"iconTypeName": "",
+			"linkUrl": "/product/3093",
+			"pictureUrl": "https://file11info.ppdai.com/85b17a9c03a249cebe16e0933b8c4a18.jpg",
+			"price": 4799,
+			"monthPayments": 463.40,
+			"months": 12
+		}, {
+			"name": "佳能（Canon）EOS 80D 单反套机（EF-S 18-200mm f/3.5-5.6 IS） 2420万有效像素 45点十字对焦 WIFI/NFC 官方标配",
+			"hotWords": "",
+			"iconTypeName": "",
+			"linkUrl": "/product/2075",
+			"pictureUrl": "https://file11info.ppdai.com/80e87f946f5349beb908aee066a1ed36.jpg",
+			"price": 8799,
+			"monthPayments": 849.65,
+			"months": 12
+		}],
+		"totalCount": 57,
+		"totalPage": 6,
+		"currentPage": 1
+	}
+}

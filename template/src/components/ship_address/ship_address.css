@@ -1,0 +1,116 @@
+.ship_address .add{
+    width: 0.768rem;
+    vertical-align: middle;
+    margin-right: 0.426667rem;
+}
+.ship_address .address_info{
+	background: #fff;
+	font-size: 0.64rem;
+	padding: 0.853333rem 0.426667rem;
+	margin-top: 0.426667rem;
+	color: #666;
+	overflow: hidden;
+	line-height: 1.066667rem;
+	position: relative;
+}
+.ship_address .address_info .address{
+	overflow: hidden;
+}
+.ship_address .border{
+	position: absolute;
+	background: url(./imgs/border_bg.png) repeat;
+	bottom: 0;
+	left: 0;
+	height: 0.170667rem;
+	width: 100%;
+}
+.ship_address .write_address{
+	color: #666;
+	line-height: 2.133333rem;
+	display: block;
+	background: #fff;
+	font-size: 0.768rem;
+	text-align: center;
+	margin-top: 0.426667rem;
+}
+.ship_address .pro_info{
+	background: #fff;
+	margin-top: 0.426667rem;
+}
+.ship_address .write_address a{
+	display: block;
+	color: #666;
+}
+.ship_address .pro_info .content img{
+	width: 3.498667rem;
+}
+.ship_address .address_info .address_link{
+	color: #666;
+	display: block;
+}
+.ship_address .address_info .logo{
+	width: 5%;
+}
+.ship_address .address_info .logo img{
+	width: 0.512rem;
+	vertical-align: middle;
+}
+.ship_address .address_info .text{
+	width: 79%;
+}
+.ship_address .address_info .go{
+	width: 5%;
+}
+.ship_address .address_info .go img{
+	width: 15px;
+}
+.ship_address .address_info .user_info span{
+	font-size: 0.682667rem;
+    color: #000;
+    margin-left: 0.853333rem;
+    margin-bottom: 0.213333rem;
+    display: inline-block;
+    font-weight: bold;
+}
+.ship_address .pro_info .content{
+	padding: 0.853333rem 0.426667rem;
+	overflow: hidden;
+}
+.ship_address .pro_info .content .left{
+	width: 25%;
+	padding: 0.085333rem;
+	border:solid 1px #ededed;
+	height: 3.413333rem;
+	display: flex;
+	display: -webkit-flex;
+}
+.ship_address .pro_info .content .right{
+	width: 70%;
+}
+.ship_address .pro_info .order_title{
+	font-size: 0.682667rem;
+	color: #000;
+	margin:0;
+	line-height: 1.066667rem;
+	white-space:nowrap; 
+	overflow:hidden; 
+	text-overflow:ellipsis;
+}
+.ship_address .pro_info .pro_point{
+	font-size: 0.597333rem;
+	color: #666;
+	margin:0;
+	white-space:nowrap; 
+	overflow:hidden; 
+	text-overflow:ellipsis;
+	line-height: 1.152rem;
+}
+.ship_address .pro_info .order_price{
+	color: #0abfff;
+	font-size: 0.768rem;
+	line-height: 1.493333rem;
+	margin:0;
+}
+.ship_address .pro_info .order_price .unit{
+	font-size: 0.597333rem;
+}

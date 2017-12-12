@@ -1,0 +1,30 @@
+{
+	"responseCode": 1,
+	"responseMessage": "查询成功！",
+	"responseContent": [{
+		"id": 38,
+		"name": "佳能",
+		"thumbnailPictureUrl": "",
+		"currCategoryUrl": "/category/37/38"
+	}, {
+		"id": 39,
+		"name": "尼康",
+		"thumbnailPictureUrl": "",
+		"currCategoryUrl": "/category/37/39"
+	}, {
+		"id": 40,
+		"name": "索尼",
+		"thumbnailPictureUrl": "",
+		"currCategoryUrl": "/category/37/40"
+	}, {
+		"id": 41,
+		"name": "卡西欧",
+		"thumbnailPictureUrl": "",
+		"currCategoryUrl": "/category/37/41"
+	}, {
+		"id": 80,
+		"name": "GoPro",
+		"thumbnailPictureUrl": "",
+		"currCategoryUrl": "/category/37/80"
+	}]
+}

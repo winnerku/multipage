@@ -1,0 +1,25 @@
+body,#app{
+    font-family:Helvetica;
+    width: 100%;
+    overflow-x: hidden;
+	background: #f0efef !important;
+}
+.pay_confirm{
+    color: #666;
+    line-height: 2.133333rem;
+    display: block;
+    background: #fff;
+    font-size: 0.768rem;
+    text-align: center;
+    position: relative;
+}
+.tip_text{
+  text-align: left;
+  margin-top: 0;
+  height: auto;
+  line-height: 1.28rem;
+  font-size: 0.597333rem;
+}
+.ajaxLoading .weui-toast{
+    min-height:5.6rem;
+}

@@ -1,0 +1,95 @@
+.type_plate{
+  padding:0.426667rem 0.426667rem;
+  background: #fff;
+  margin-bottom: 0.426667rem;
+}
+.type_plate .title{
+	color: #333;
+	font-size: 0.853333rem;
+	margin-bottom: 0.426667rem;
+	line-height: 1.28rem;
+}
+.type_plate .title img{
+	width: 0.725333rem;
+	vertical-align: middle;
+	margin-left: 0.213333rem;
+	margin-bottom: 0.128rem;
+}
+.type_plate .title a{
+	float: right;
+	color: #696969;
+	font-size: 0.682667rem;
+}
+.type_plate .banner img{
+	width: 100%;
+}
+.type_plate .content{
+	width: 100%;
+}
+.type_plate .pro_list{
+	margin-top: 0.426667rem;
+}
+.type_plate .list_item{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	border:1px solid #ededed;
+	text-align: center;
+	width: 33.333%;
+	line-height: 0.213333rem;
+	position: relative;
+}
+.type_plate .list_item .mark{
+	position: absolute;
+    top: 0;
+    left: 0.213333rem;
+    font-size: 12px;
+    background: #f80016;
+    line-height: 0.853333rem;
+    text-align: center;
+    color: #fff;
+    padding: 0 0.213333rem;
+    border-radius: 0.170667rem;
+}
+.type_plate .list_item .markRight{
+	position: absolute;
+    top: 0;
+    right: 0;
+    width: 1.053333rem;
+}
+.type_plate .list_item .markRight img{
+	width: 100%;
+	margin: 0;
+}
+.type_plate .list_item .unit{
+	font-size: 0.554667rem;
+}
+.type_plate .list_item .name{
+	margin-top: 0.426667rem;
+    overflow:hidden; 
+	text-overflow:ellipsis;
+    height: 1.551333rem;
+    -webkit-line-clamp: 2;
+    word-break: break-all;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    line-height: 0.768rem;
+    font-size: 12px;
+}
+.type_plate .list_item p{
+    color: #666;
+    text-align: center;
+    font-size: 0.554667rem;
+    margin: 0 auto;
+    width: 90%;
+    line-height: 0.938667rem;
+}
+.type_plate .list_item .stages{
+	font-size: 0.597333rem;/*14px*/
+	color: #0abfff;
+}
+.type_plate .list_item img{
+	width: 4.096rem;
+	margin: 0.426667rem 0;
+}

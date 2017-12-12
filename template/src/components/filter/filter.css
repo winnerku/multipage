@@ -1,0 +1,121 @@
+.filter{
+	width: 100%;
+	height: auto;
+}
+.filter .filter_item{
+	overflow: hidden;
+	width: 100%;
+}
+.filter .filter_item a{
+	display: block;
+	float: left;
+	width: 33.333%;
+	text-align: center;
+	height: 1.92rem;
+	line-height: 1.92rem;
+	color: #666;
+	background: #fff;
+	font-size: 0.682667rem;
+}
+.filter .filter_item a.active{
+	color: #0abfff;
+}
+.filter .filter_item a:nth-child(1),.filter .filter_item a:nth-child(2){
+	border-right: solid 1px #ededed;
+}
+.filter .filter_item a img{
+	width: 0.810667rem;
+	margin-left: 0.213333rem;
+	vertical-align: middle;
+}
+.filter .other_filter{
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	width: 12.8rem;
+	background: #fff;
+	right: -12.8rem;
+	transition: all 0.5s ease;
+	z-index: 100;
+}
+.filter .other_filter.show{
+	right:0;
+}
+.filter .other_filter .filter_main{
+	padding: 0.853333rem;
+	color: #666;
+	height: 90%;
+	overflow-y: scroll;
+}
+.filter .other_filter .filter_main .block{
+	border-bottom: 1px solid #ededed;
+	padding: 0.853333rem 0;
+}
+.filter .other_filter .filter_main .price_range{
+	padding: 0.853333rem 0.426667rem;
+}
+.filter .other_filter .filter_main .price_range input{
+	display: inline-block;
+    font-size: 0.682667rem;
+    border-radius: 0.213333rem;
+    text-align: center;
+    width: 45%;
+    height: 1.706667rem;
+    margin-top: 0.64rem;
+    border: 1px solid #d0d0d0;
+}
+.filter .other_filter .filter_main .title{
+	font-size: 0.768rem;
+	margin-left: 0.213333rem;
+}
+.filter .other_filter .filter_main .choose_btn{
+	width: 100%;
+	overflow: hidden;
+}
+.filter .other_filter .filter_main .btn_box{
+	width: 50%;
+	float: left;
+	text-align: center;
+	margin-top: 0.64rem;
+}
+.filter .other_filter .filter_main .btn_box a{
+	display: inline-block;
+    border: 1px solid #d0d0d0;
+    width: 90%;
+    line-height: 1.706667rem;
+    font-size: 0.682667rem;
+    color: #666;
+    border-radius: 0.213333rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.filter .other_filter .filter_main .btn_box a.active{
+	border: 1px solid #0abfff;
+	color: #0abfff;
+}
+
+.filter .other_filter .btns{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	overflow: hidden;
+}
+.filter .other_filter .btns a{
+	display: block;
+	float: left;
+	font-size: 0.682667rem;
+	color: #fff;
+	height: 2.133333rem;
+	text-align: center;
+	line-height: 2.133333rem;
+}
+.filter .other_filter .btns a.cancel{
+	background: #d0d0d0;
+	width: 40%;
+}
+.filter .other_filter .btns a.comfire{
+	background: #0abfff;
+	width: 60%;
+}

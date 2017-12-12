@@ -1,0 +1,7 @@
+body,#app{
+    font-family:Helvetica;
+	background: #f0efef !important;
+}
+#app::-webkit-scrollbar{
+  display: none;
+}

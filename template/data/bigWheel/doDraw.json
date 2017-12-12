@@ -1,0 +1,11 @@
+{
+    "code": 1,
+    "message": "SUCCESS",
+    "content": {
+        "prizeId": 8,
+        "prizeName": "谢谢参与",
+        "quantity": 1,
+        "drawTime": 1507958290818,
+        "isHit": false
+    }
+}

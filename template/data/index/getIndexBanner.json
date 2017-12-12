@@ -1,0 +1,33 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS",
+	"responseContent": [{
+		"name": "20170524 banner",
+		"linkUrl": "https://www.baidu.com/",
+		"pictureUrl": "https://loanm.ppdaicdn.com/image/20170524.jpg?v=20170524",
+		"price": null,
+		"monthPayments": null,
+		"months": null
+	}, {
+		"name": "517电信日bananer",
+		"linkUrl": "https://www.baidu.com/",
+		"pictureUrl": "https://loanm.ppdaicdn.com/image/1_1_1.jpg",
+		"price": null,
+		"monthPayments": null,
+		"months": null
+	}, {
+		"name": "banner广告3",
+		"linkUrl": "https://www.baidu.com/",
+		"pictureUrl": "https://loanm.ppdaicdn.com/image/1_1_1.jpg",
+		"price": null,
+		"monthPayments": null,
+		"months": null
+	}, {
+		"name": "banner广告4",
+		"linkUrl": "https://www.baidu.com/",
+		"pictureUrl": "https://loanm.ppdaicdn.com/image/1_1_1.jpg",
+		"price": null,
+		"monthPayments": null,
+		"months": null
+	}]
+}

@@ -1,0 +1,41 @@
+{
+    "responseCode": 1,
+    "responseMessage": "SUCCESS",
+    "responseContent": {
+        "personalCouponList": [
+            {
+                "couponId": 16,
+                "couponName": "helloword",
+                "couponContent": "helloword",
+                "state": 0,
+                "faceValue": 12,
+                "startTime": "2017.08.09",
+                "endTime": "2017.08.28",
+                "couponUniqueId": "927194136306341016"
+            },
+            {
+                "couponId": 19,
+                "couponName": "helloword",
+                "couponContent": "A001",
+                "state": 0,
+                "faceValue": 30,
+                "startTime": "2017.08.09",
+                "endTime": "2017.08.28",
+                "couponUniqueId": "599327544089271016"
+            },
+            {
+                "couponId": 18,
+                "couponName": "helloword",
+                "couponContent": "you",
+                "state": 0,
+                "faceValue": 12,
+                "startTime": "2017.08.09",
+                "endTime": "2017.08.28",
+                "couponUniqueId": "208167170610441016"
+            }
+        ],
+        "totalCount": 4,
+        "totalPage": 2,
+        "currentPage": 1
+    }
+}

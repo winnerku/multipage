@@ -1,0 +1,94 @@
+.mall_top_two{
+	background: #0abfff;
+	overflow: hidden;
+	padding: .2962963rem .59259259rem;
+  padding-right: 0;
+}
+.inline{
+	float: left;
+}
+.search{
+	position: relative;
+  width: 73%;
+}
+.search img{
+	position: absolute;
+	right: 0.426667rem;
+	top: 0.250667rem;
+	width: 1.066667rem;
+}
+.category_logo{
+    line-height: 1.365333rem;
+    float: right;
+    width: 2.218667rem;
+    text-align: center;
+    height: 1.493333rem;
+}
+.category_logo img{
+	width: 1.109333rem;
+  vertical-align: middle;
+}
+.back{
+    line-height: 1.465333rem;
+    padding-right: 1.066667rem;
+}
+.back img{
+    height: 1.066667rem;
+    vertical-align: middle;
+}
+.product_name{
+	  border: none;
+    height: 1.450667rem;
+    width: 100%;
+    background: #47cfff;
+    border-radius: .97777778rem/* 33px */;
+    padding-left: 0.853333rem;
+    font-size: 0.682667rem;
+    color: #fff;
+    outline: none;
+}
+.product_name::-webkit-input-placeholder{color:#fff;}
+
+
+
+.vux-popover {
+  position: absolute;
+  top: 2.048rem;
+  right: 0.426667rem;
+  background-color: #fff;
+  color: #666;
+  border-radius: 0.128rem;
+  padding: 0 0.426667rem;
+  z-index: 500;
+  font-size: 0.597333rem;
+}
+.vux-popover-arrow {
+  position: absolute;
+  width: 0;
+  height: 0;
+}
+.vux-popover-arrow-up {
+    border-left: 0.298667rem solid transparent;
+    border-right: 0.256rem solid transparent;
+    border-bottom: 0.469333rem solid #fff;
+    left: 82%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    top: -0.384rem;
+}
+.popover-demo-content{
+    overflow: hidden;
+    width: 4.266667rem;
+}
+.popover-demo-content .category{
+    display: block;
+    line-height: 1.706667rem;
+    color: #666;
+    border-bottom: solid 1px #ededed;
+    width: 100%;
+    text-align: center;
+}
+.popover-demo-content .category:active{
+    color: #fff;
+    background: #0abfff;
+}

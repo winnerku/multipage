@@ -1,0 +1,163 @@
+html{
+    background-color: #fa0041;
+}
+body{
+    background: url(./imgs/choujiang_bg.png) no-repeat 50% 50%;
+    width: 100%;
+    height: 19.2rem;
+    padding-top: 0.853333rem!important;
+    position: relative;
+}
+.weui-toast.vux-toast-middle{
+    top: 35%!important;
+    width: 80%!important;
+    line-height: 1.066667rem;
+}
+.pro_quota_tip{
+    background: #fff;
+    font-size: 0.554667rem;
+    line-height: 0.853333rem;
+    margin-bottom: 0.426667rem;
+    position: relative;
+    overflow: hidden;
+    width: 70%;
+    height: 1.28rem;
+    margin: 0 auto;
+    border-radius: 0.426667rem;
+    background-color: rgba(230, 0, 18,.8);
+    -moz-box-shadow:1px 2px 1px #c70309 inset;
+    -webkit-box-shadow:1px 2px 1px #c70309 inset;
+    box-shadow:1px 2px 1px #c70309 inset;  
+}
+.pro_quota_tip img{
+    position: absolute;
+    top: 0.298667rem;
+    left: 0.426667rem;
+}
+.pro_quota_tip .tip_box{
+    position: relative;
+}
+.pro_quota_tip .tip_box a{
+    color: #fff;
+    display: block;
+    width: 100%;
+    padding:0.213333rem 0.213333rem;
+    padding-left: 1.706667rem;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+.bottom{
+    position: absolute;
+    bottom: 0.426667rem;
+    left: 0;
+    right: 0;
+    height: 2.133333rem;
+    line-height: 2.133333rem;
+    text-align: center;
+    color: #fff;
+    font-size: 0.853333rem;
+}
+.bottom span{
+    color: #fbdb00;
+}
+.bottom .myPrize{
+    position: absolute;
+    padding:0 0.213333rem; 
+    right: 0.426667rem;
+    top: 0.597333rem;
+    font-size: 12px;
+    border-radius: 0.213333rem;
+    line-height: 0.938667rem;
+    background-color:#ff9801; 
+    color: #fff;
+}
+.bottom .myPrize a{
+    display: block;
+    color: #fff;
+}
+.bottom .myPrize img{
+    vertical-align: middle;
+    margin-bottom: 0.170667rem;
+    margin-right: 0.213333rem;
+}
+.dialog{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1000;
+}
+.dialog .imgDialog{
+    background: url(./imgs/choujiang_dialog.png) no-repeat;
+    width: 75%;
+    height: 100%;
+    margin: 0 auto;
+    vertical-align: middle;
+    margin-top: 1.066667rem;
+    color: #fff;
+    font-size: 0.768rem;
+    background-size: contain;
+    position: relative;
+}
+.dialog .imgDialog .closeDialog{
+    position: absolute;
+    right: 0;
+}
+.dialog .imgDialog .prizeInfo{
+    width: 80%;
+    font-size: 0.682667rem;
+    height: 10.666667rem;
+    margin: 0 auto;
+    padding-top: 4.266667rem;
+    text-align: center;
+}
+.dialog .imgDialog .title{
+    font-size: 0.768rem;
+    line-height: 1.493333rem;
+}
+.dialog .imgDialog .text{
+    top:6.613333rem;
+    line-height: 1.28rem;
+    font-size: 0.682667rem;
+    height: 5.973333rem;
+    overflow-y: scroll;
+}
+.dialog .imgDialog .prizeTip{
+    font-size: 12px;
+    line-height: 0.853333rem;
+    position: absolute;
+    top: 11.861333rem;
+    transform: translateX(-50%);
+    left: 50%;
+    width: 100%;
+}
+.dialog .imgDialog .btn{
+    color: #e60012;
+    display: inline-block;
+    padding: 0.341333rem 1.28rem;
+    background-color: #fbdb00;
+    border-radius: 1.152rem;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 13.653333rem;
+    width: 65%;
+}
+.dialog .imgDialog .btn img{
+    vertical-align: middle;
+    width: 0.426667rem;
+    margin-left: 0.213333rem;
+}
+.dialog .imgDialog .text span{
+    color: #fbdb00;
+}
+.dialog .msk{
+    background-color: rgba(5,5,5,0.6);
+    width: 100%;
+    height: 200%;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+}

@@ -1,0 +1,19 @@
+ {
+     "code": 1,
+     "message": "SUCCESS",
+     "content": [{
+         "couponName": "华为手机专场",
+         "faceValue": 200,
+         "minValue": 3000,
+         "couponId": 24,
+         "userIsClaim": false,
+         "couponIsClaimOut": false
+     }, {
+         "couponName": "平板电脑专场",
+         "faceValue": 500,
+         "minValue": 2000,
+         "couponId": 25,
+         "userIsClaim": true,
+         "couponIsClaimOut": false
+     }]
+ }

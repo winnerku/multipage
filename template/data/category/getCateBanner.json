@@ -1,0 +1,13 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS",
+	"responseContent": [{
+		"name": "分类页相机单反banner",
+		"linkUrl": "https://mstore.ppdai.com/product/826",
+		"pictureUrl": "https://file11info.ppdai.com/4ebebf370bd54434902ce4819c4b6ac8.jpg",
+		"price": null,
+		"monthPayments": null,
+		"months": null,
+		"iconTypeName": null
+	}]
+}

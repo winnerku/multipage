@@ -1,0 +1,9 @@
+{
+	"responseCode": 1,
+	"responseMessage": "查询成功！",
+	"responseContent": {
+		"avilableAmount": 1000.0,
+		"userName": "rong8027681",
+		"tempAmount": 300
+	}
+}

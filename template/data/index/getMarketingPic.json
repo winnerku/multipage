@@ -1,0 +1,19 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS",
+	"responseContent": [{
+		"name": "营销广告1",
+		"linkUrl": "https://pest.test.ppdaicorp.com/QCPlatForm/index.jsp",
+		"pictureUrl": "https://loanm.ppdaicdn.com/image/14.jpg",
+		"price": null,
+		"monthPayments": null,
+		"months": null
+	}, {
+		"name": "营销广告2",
+		"linkUrl": "https://pest.test.ppdaicorp.com/QCPlatForm/index.jsp",
+		"pictureUrl": "https://loanm.ppdaicdn.com/image/13.jpg",
+		"price": null,
+		"monthPayments": null,
+		"months": null
+	}]
+}

@@ -1,0 +1,8 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS!",
+	"responseContent": {
+		"showFlag": true,
+		"tipMsg": "你还有24.00元优惠券未使用，快去选购吧~"
+	}
+}

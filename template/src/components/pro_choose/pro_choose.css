@@ -1,0 +1,131 @@
+.pro_choose{
+	padding: 0.853333rem 0.426667rem;
+	background:#fff;
+	margin-top: 0.341333rem;
+	overflow: hidden;
+	margin-bottom: 0.426667rem;
+}
+.pro_choose .row{
+	font-size: 0.64rem;
+	color: #666;
+	line-height: 1.066667rem;
+}
+.pro_choose .info a{
+	color: #666;
+	font-size: 0.682667rem;
+	display: block;
+}
+.pro_choose .right{
+	/*font-size: 1.28rem;
+	line-height: 0.298667rem;*/
+}
+.dialog{
+	display: none;
+	position: fixed;
+	width: 100%;
+	height:100%;
+	top: 0;
+	left: 0;
+	z-index: 5
+}
+.cate_content{
+	position: absolute;
+	background: #fff;
+	bottom: -15.8rem;
+	transition: all .5s ease;
+	-webkit-transition:all .5s ease;
+	z-index: 10;
+	height: 17.621333rem;
+	width: 100%;
+}
+.dialog .mask{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #000;
+	opacity: 0.5;
+	z-index:8;
+}
+.cate_content .cate_img{
+	padding: 0.64rem 0;
+	border-bottom: solid 1px #ededed;
+	overflow: hidden;
+}
+.cate_content .cate_img img{
+	padding: 0.213333rem;
+	border: solid 1px #ededed;
+	margin-left: 0.426667rem;
+	margin-right: 0.853333rem;
+	width: 3.2rem;
+	height: 3.2rem;
+}
+.cate_content.animate{
+	bottom: 0;
+}
+.cate_content .cate_img .cate_sale{
+	color: #0abfff;
+	font-size: 0.853333rem;
+}
+.cate_content .cate_img p {
+	line-height: 1.28rem;
+	margin: 0;
+	color: #999;
+	font-size: 0.597333rem;
+}
+.cate_content .dialogClose{
+    position: absolute;
+    top: 0;
+    right: 0.426667rem;
+    font-size: 1.877333rem;
+    color: #999;
+}
+.cate_content .buy_btn{
+    display: block;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    text-align: center;
+    background: #0abfff;
+    font-size: 0.853333rem;
+    color: #fff;
+    bottom: 0;
+    line-height: 2.133333rem;
+}
+.cate_content .buy_btn.disabled{
+	background: #ededed;
+}
+.cate_content .cate_class{
+	height: 10.64rem;
+	overflow: scroll;
+}
+.cate_class::-webkit-scrollbar{
+	display: none;
+}
+.cate_class .class_list{
+	padding-top: 0.426667rem;
+}
+.cate_class .class_item{
+	padding-bottom: 0.213333rem;
+}
+.cate_class .class_item .name{
+	color: #666;
+	font-size: 0.597333rem;
+	margin-left: 0.426667rem;
+}
+.cate_class .class_item .btn{
+    padding: 0.426667rem 0.426667rem;
+    border: solid 1px #ededed;
+    border-radius: 0.213333rem;
+    color: #666;
+    font-size: 0.597333rem;
+    margin: 0.426667rem;
+    display: inline-block;
+    min-width: 4.48rem;
+    text-align: center;
+}
+.cate_class .class_item .btn:active,.cate_class .class_item .btn.active{
+	border: solid 1px #0abfff;
+	color: #0abfff
+}

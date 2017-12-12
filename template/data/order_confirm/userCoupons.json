@@ -1,0 +1,43 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS",
+	"responseContent": {
+		"usableCoupons": [{
+			"userCouponId": 12,
+			"couponName": "满9999减500",
+			"couponAmount": "500",
+			"startTime": "2017-08-17",
+			"endTime": "2017-09-17",
+			"desc": "分期商城年终促销活动！"
+		}, {
+			"userCouponId": 13,
+			"couponName": "满9999减800",
+			"couponAmount": "800",
+			"startTime": "2017-08-17",
+			"endTime": "2017-10-17",
+			"desc": "分期商城年终促销活动！"
+		}, {
+			"userCouponId": 13,
+			"couponName": "满9999减800",
+			"couponAmount": "800",
+			"startTime": "2017-08-17",
+			"endTime": "2017-10-17",
+			"desc": "分期商城年终促销活动！"
+		}],
+		"unUsableCoupons": [{
+			"userCouponId": 14,
+			"couponName": "满9999减5000",
+			"couponAmount": "5000",
+			"startTime": "2017-08-17",
+			"endTime": "2017-08-17",
+			"desc": "分期商城年终促销活动！"
+		}, {
+			"userCouponId": 15,
+			"couponName": "满9999减8000",
+			"couponAmount": "8000",
+			"startTime": "2017-08-17",
+			"endTime": "2017-08-17",
+			"desc": "分期商城年终促销活动！"
+		}]
+	}
+}

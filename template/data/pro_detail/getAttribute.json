@@ -1,0 +1,45 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS",
+	"responseContent": [{
+		"attributeId": 1,
+		"attributeName": "颜色",
+		"attributeList": [{
+			"attributeValueId": 3,
+			"attributeValue": "玫瑰金",
+			"select": true
+		}, {
+			"attributeValueId": 1,
+			"attributeValue": "红色",
+			"select": false
+		}, {
+			"attributeValueId": 7,
+			"attributeValue": "金色",
+			"select": false
+		}, {
+			"attributeValueId": 8,
+			"attributeValue": "银色",
+			"select": false
+		}, {
+			"attributeValueId": 2,
+			"attributeValue": "亮黑色",
+			"select": false
+		}]
+	}, {
+		"attributeId": 2,
+		"attributeName": "规格",
+		"attributeList": [{
+			"attributeValueId": 12,
+			"attributeValue": "128G",
+			"select": true
+		}, {
+			"attributeValueId": 13,
+			"attributeValue": "256G",
+			"select": false
+		}, {
+			"attributeValueId": 9,
+			"attributeValue": "32G",
+			"select": false
+		}]
+	}]
+}

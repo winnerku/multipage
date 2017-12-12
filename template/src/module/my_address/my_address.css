@@ -1,0 +1,33 @@
+body,#app{
+    font-family:Helvetica;
+	background: #f0efef !important;
+}
+.loading{
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  top: 2.090667rem;
+  left: 0;
+  bottom: 0;
+  z-index: 100;
+  background: #000;
+  opacity: 0.6;
+}
+.weui-loading {
+    width: 0.64rem;
+    height: 0.64rem;
+    margin-right: 0.213333rem;
+    display: inline-block;
+    vertical-align: middle;
+    background: url(./imgs/loading.gif) no-repeat;
+    background-size: 100%;
+}
+.bindMobileText{
+	text-align: left;
+	color: #333;
+}
+.bindMobileText p{
+	color: #0abfff;
+	font-size: 1.024rem;
+	text-align: center;
+}

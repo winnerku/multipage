@@ -1,0 +1,124 @@
+.seckill{
+  padding:0.226667rem 0;
+  background: #fff;
+  margin-bottom: 0.426667rem;
+}
+.seckill .title{
+	color: #0abfff;
+	/*margin-bottom: 0.426667rem;*/
+}
+.seckill .title div{
+	display: inline-block;
+    vertical-align: top;
+    margin-left: 0.128rem;
+    font-size: 0.597333rem;
+    line-height: 1.124rem;
+}
+.seckill .title span{
+	color: #fff;
+    background: #0abfff;
+    display: inline-block;
+    border-radius: 0.085333rem;
+    padding: 0 0.128rem;
+    margin: 0.170667rem;
+    line-height: 0.768rem;
+    vertical-align: top;
+}
+.seckill .title .active_name{
+	color: #0abfff;
+	text-decoration: none;
+	display: inline-block;
+	max-width: 3.328rem;
+	white-space:nowrap; 
+	overflow:hidden; 
+	text-overflow:ellipsis;
+	vertical-align: top;
+}
+.seckill .title img{
+	width: 3.626667rem;
+	margin-left: 0.426667rem;
+}
+.seckill .content{
+	width: 100%;
+	overflow-x: scroll;
+}
+.seckill .content::-webkit-scrollbar{
+	display: none;	
+}
+.seckill .pro_list{
+	overflow: hidden;
+	margin-top: 0.226667rem;
+}
+.seckill .list_item{
+	list-style: none;
+	margin: 0 0.426667rem;
+	padding: 0;
+	display: inline-block;
+	line-height: 0.213333rem;
+	position: relative;
+}
+.seckill .list_item .mark{
+	position: absolute;
+    top: 0;
+    left: 0.213333rem;
+    font-size: 12px;
+    background: #f80016;
+    line-height: 0.853333rem;
+    text-align: center;
+    color: #fff;
+    padding: 0 0.213333rem;
+    border-radius: 0.170667rem;
+}
+.seckill .list_item .markRight{
+	position: absolute;
+    top: 0;
+    right: 0.113333rem;
+    width: 1.053333rem;
+}
+.seckill .list_item .markRight img{
+	width: 100%;
+}
+.seckill .list_item p{
+	color: #666;
+	text-align: center;
+	font-size: 0.554667rem;
+	overflow:hidden; 
+	margin:0;
+	width: 4.266667rem;
+	line-height: 0.853333rem;
+	text-overflow:ellipsis;
+}
+.seckill .list_item .unit{
+	font-size: 0.554667rem;
+}
+.seckill .list_item .pro_name{
+    height: 1.706667rem;
+    -webkit-line-clamp: 2;
+    word-break: break-all;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    font-size: 12px;
+}
+.seckill .list_item .sale{
+	font-size: 0.682667rem;/*16px*/
+	color: #0abfff;
+}
+.seckill .list_item .no_sale{
+	text-decoration: line-through;
+	color: #999;
+}
+.seckill .list_item img{
+	width: 3.626667rem;
+}
+.seckill .list_item .pro_img{
+	width: 4.138667rem;
+	height: 4.138667rem;
+	border:solid 1px #ededed;
+	padding: 0.213333rem;
+	display: flex;
+	margin-bottom: 0.426667rem;
+}
+.seckill .pro_list .itemLink{
+	display: inline-block;
+	width: 4.992rem;
+}

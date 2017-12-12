@@ -1,0 +1,23 @@
+module.exports = {
+    '/product/getAttribute':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/product/getAttribute':'/data/pro_detail/getAttribute.json'
+        }
+    },
+    '/product/getSkuProDeatils':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/product/getSkuProDeatils':'/data/pro_detail/getSkuProDeatils.json'
+        }
+    },
+    '/user/getUserPeriods':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/user/getUserPeriods':'/data/pro_detail/getUserPeriods.json'
+        }
+    }
+}

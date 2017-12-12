@@ -1,0 +1,30 @@
+module.exports = {
+	'/drawPromotion/doDraw':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/drawPromotion/doDraw':'/data/bigWheel/doDraw.json'
+        }
+    },
+    '/drawPromotion/hitRecords':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/drawPromotion/hitRecords':'/data/bigWheel/hitRecords.json'
+        }
+    },
+    '/drawPromotion/myPrizes':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/drawPromotion/myPrizes':'/data/bigWheel/myPrizes.json'
+        }
+    },
+    '/drawPromotion/nums':{
+        target:'http://localhost:8181/',
+        changeOrigin:true,
+        pathRewrite:{
+            '^/drawPromotion/nums':'/data/bigWheel/nums.json'
+        }
+    }
+}

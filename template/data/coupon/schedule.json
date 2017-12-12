@@ -1,0 +1,11 @@
+{
+    "code": 1,
+    "message": "SUCCESS",
+    "content": [{
+        "couponId": 24,
+        "leadEnd": false
+    }, {
+        "couponId": 25,
+        "leadEnd": false
+    }]
+}

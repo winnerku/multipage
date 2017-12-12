@@ -1,0 +1,33 @@
+.pro_tab{
+	margin-bottom: 4.266667rem;
+	background: #fff;
+}
+.pro_tab .detail,.pro_tab .notes{
+	word-break: break-all;
+	padding: 0.426667rem;
+	font-size: 0.554667rem;
+	min-height: 27.6rem;
+}
+.pro_tab .notes img{
+	width: 100%;
+}
+.pro_tab .detail img{
+	width: 100%;
+}
+.pro_tab .tab{
+	width: 100%;
+	overflow: hidden;
+}
+.pro_tab .tab a{
+	display: inline-block;
+	width: 50%;
+	float: left;
+	font-size: 0.597333rem;
+	color: #666;
+    text-align: center;
+    line-height: 1.877333rem;
+    border-bottom: 1px #ededed solid;
+}
+.pro_tab .tab a.active{
+	border-bottom: 2px rgb(10, 191, 255) solid;
+}

@@ -1,0 +1,24 @@
+{
+	"responseCode": 1,
+	"responseMessage": "查询成功！",
+	"responseContent": [{
+		"id": 21,
+		"provinceId": 2,
+		"provinceName": "上海",
+		"cityId": 78,
+		"cityName": "黄浦区",
+		"areaId": 51978,
+		"areaName": "城区",
+		"townId": 0,
+		"townName": null,
+		"addressDetails": "上海路888号44弄",
+		"addressType": 0,
+		"zipCode": null,
+		"consignee": "李四测试数据987654322",
+		"mobile": "13521212121",
+		"telno": null,
+		"email": null,
+		"isdefault": null,
+		"fullAddress": "上海黄浦区城区上海路888号44弄"
+	}]
+}

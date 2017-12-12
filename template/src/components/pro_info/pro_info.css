@@ -1,0 +1,44 @@
+body{
+	background:#f0efef;
+}
+.pro_info{
+	padding: 0.853333rem 0.426667rem;
+	background:#fff;
+	margin-top: 0.341333rem;
+	overflow: hidden;
+}
+.pro_info .row{
+	font-size: 0.64rem;
+	color: #666;
+	line-height: 1.493333rem;
+}
+.pro_info .title{
+	font-size: 0.682667rem;
+	font-weight: bold;
+	line-height: 1.109333rem;
+	color: #333;
+}
+.pro_info .unit{
+	color: #0abfff;
+}
+.pro_info .number{
+	color: #0abfff;
+	font-size: 0.853333rem;
+	font-weight: bold;
+}
+.pro_info .sales a{
+	color: red;
+	display: block;
+	line-height: 1.066667rem;
+}
+.pro_info .sales span{
+	color: #666;
+}
+.pro_info .character img{
+	width: 0.725333rem;
+	vertical-align: middle;
+}
+.pro_info .character div{
+	margin-right: 1.066667rem;
+	font-size: 0.597333rem;
+}

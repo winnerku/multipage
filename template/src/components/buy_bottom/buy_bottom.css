@@ -1,0 +1,75 @@
+.buy_bottom{
+	position: fixed;
+	bottom: 0;
+	background: #fff;
+	width: 100%;
+	left: 0;
+	border-top: solid 1px #ededed;
+}
+.buy_bottom .kefu_logo{
+    padding: 0.384rem 0.426667rem 0.384rem 0.64rem;
+    border-right: solid 1px #ccc;
+    line-height: 0.768rem;
+}
+.buy_bottom .kefu_logo img{
+	width: 1.365333rem;
+}
+.buy_bottom .stages{
+	font-size: 0.597333rem;
+	color: #666;
+	line-height: 2.133333rem;
+	text-align: center;
+	padding: 0 0.512rem;
+}
+.buy_bottom .stages .money,.buy_bottom .stages .number{
+	font-size: 0.64rem;
+	color: #0abfff;
+}
+.buy_bottom .comfire_btn{
+	font-size: 0.768rem;
+	display: block;
+	background: #0abfff;
+	color: #fff;
+	line-height: 2.176rem;
+	padding: 0 0.426667rem;
+}
+.vux-x-icon {
+  	fill: #0abfff;
+  	margin-left: 0.213333rem;
+  	height: 1.28rem;
+}
+.collect_icon{
+	display: inline-block;
+	position: relative;
+}
+.vux-popover {
+    position: absolute;
+    left: -1.365333rem;
+    top: -2.261333rem;
+    background-color: #fff;
+    color: #999;
+    border-radius: 0.426667rem;
+    z-index: 500;
+    width: 4.566667rem;
+    box-shadow: 1px 1px 1px #999;
+    text-align: center;
+    font-size: 0.597333rem;
+}
+.vux-popover-arrow {
+  	position: absolute;
+  	width: 0;
+  	height: 0;
+}
+.vux-popover-arrow-down {
+    border-left: 0.313333rem solid transparent;
+    border-right: 0.313333rem solid transparent;
+    border-top: 0.413333rem solid #c5c4c4;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform:translateX(-50%);
+    -ms-transform:translateX(-50%);
+    bottom: -0.469333rem;
+}
+.popover-demo-content{
+	padding: 0.512rem 0.213333rem;
+}

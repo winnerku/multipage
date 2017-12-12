@@ -1,0 +1,170 @@
+{
+	"responseCode": 1,
+	"responseMessage": "查询成功！",
+	"responseContent": {
+		"pageIndex": 1,
+		"pageSize": 10,
+		"hasNext": true,
+		"myOrderInfos": [{
+			"orderInfo": {
+				"createOrderTime": "2017-07-17 14:49:20",
+				"orderStatus": -3,
+				"orderStatusTxt": "发标失败",
+				"orderNo": "PPD201707170000461",
+				"orderId": 3911,
+				"showBtn": 1,
+				"expressNo": "",
+				"expressName": ""
+			},
+			"skuInfo": {
+				"skuId": 1065,
+				"sellerTel":"88886666",
+				"skuImgUrl": "https://file11info.ppdai.com/df7b01b593874649965810b9544c4763.jpg",
+				"skuSaleUrl": "/product/1065",
+				"skuDesc": "戴尔（DELL）灵越飞匣15ER-4525B 15.6英寸大屏多彩笔记本电脑(i5-7200U 4G 500G M315 2G独显 FHD Win10) 官方标配",
+				"skuName": "官方标配"
+			},
+			"address": "上海黄浦区城区上海路888号44弄"
+		}, {
+			"orderInfo": {
+				"createOrderTime": "2017-07-17 14:49:20",
+				"orderStatus": -3,
+				"orderStatusTxt": "退货中，待审核",
+				"orderNo": "PPD201707170000461",
+				"orderId": 3912,
+				"showBtn": 5,
+				"expressNo": "",
+				"expressName": ""
+			},
+			"skuInfo": {
+				"skuId": 1065,
+				"sellerTel":"88886666",
+				"skuImgUrl": "https://file11info.ppdai.com/df7b01b593874649965810b9544c4763.jpg",
+				"skuSaleUrl": "/product/1065",
+				"skuDesc": "戴尔（DELL）灵越飞匣15ER-4525B 15.6英寸大屏多彩笔记本电脑(i5-7200U 4G 500G M315 2G独显 FHD Win10) 官方标配",
+				"skuName": "官方标配"
+			},
+			"address": "上海黄浦区城区上海路888号44弄"
+		}, {
+			"orderInfo": {
+				"createOrderTime": "2017-07-17 14:49:20",
+				"orderStatus": -3,
+				"orderStatusTxt": "退货中、未发货",
+				"orderNo": "PPD201707170000461",
+				"orderId": 3913,
+				"showBtn": 6,
+				"expressNo": "",
+				"expressName": ""
+			},
+			"skuInfo": {
+				"skuId": 1065,
+				"sellerTel":"88886666",
+				"skuImgUrl": "https://file11info.ppdai.com/df7b01b593874649965810b9544c4763.jpg",
+				"skuSaleUrl": "/product/1065",
+				"skuDesc": "戴尔（DELL）灵越飞匣15ER-4525B 15.6英寸大屏多彩笔记本电脑(i5-7200U 4G 500G M315 2G独显 FHD Win10) 官方标配",
+				"skuName": "官方标配"
+			},
+			"address": "上海黄浦区城区上海路888号44弄"
+		}, {
+			"orderInfo": {
+				"createOrderTime": "2017-07-17 14:49:20",
+				"orderStatus": -3,
+				"orderStatusTxt": "退货中、已发货",
+				"orderNo": "PPD201707170000461",
+				"orderId": 3914,
+				"showBtn": 7,
+				"expressNo": "",
+				"expressName": ""
+			},
+			"skuInfo": {
+				"skuId": 1065,
+				"sellerTel":"88886666",
+				"skuImgUrl": "https://file11info.ppdai.com/df7b01b593874649965810b9544c4763.jpg",
+				"skuSaleUrl": "/product/1065",
+				"skuDesc": "戴尔（DELL）灵越飞匣15ER-4525B 15.6英寸大屏多彩笔记本电脑(i5-7200U 4G 500G M315 2G独显 FHD Win10) 官方标配",
+				"skuName": "官方标配"
+			},
+			"address": "上海黄浦区城区上海路888号44弄"
+		}, {
+			"orderInfo": {
+				"createOrderTime": "2017-07-17 14:49:20",
+				"orderStatus": -3,
+				"orderStatusTxt": "待发货",
+				"orderNo": "PPD201707170000461",
+				"orderId": 3915,
+				"showBtn": 3,
+				"expressNo": "",
+				"expressName": ""
+			},
+			"skuInfo": {
+				"skuId": 1065,
+				"sellerTel":"88886666",
+				"skuImgUrl": "https://file11info.ppdai.com/df7b01b593874649965810b9544c4763.jpg",
+				"skuSaleUrl": "/product/1065",
+				"skuDesc": "戴尔（DELL）灵越飞匣15ER-4525B 15.6英寸大屏多彩笔记本电脑(i5-7200U 4G 500G M315 2G独显 FHD Win10) 官方标配",
+				"skuName": "官方标配"
+			},
+			"address": "上海黄浦区城区上海路888号44弄"
+		}, {
+			"orderInfo": {
+				"createOrderTime": "2017-07-17 14:49:20",
+				"orderStatus": -3,
+				"orderStatusTxt": "已发货",
+				"orderNo": "PPD201707170000461",
+				"orderId": 3916,
+				"showBtn": 4,
+				"expressNo": "",
+				"expressName": ""
+			},
+			"skuInfo": {
+				"skuId": 1065,
+				"sellerTel":"88886666",
+				"skuImgUrl": "https://file11info.ppdai.com/df7b01b593874649965810b9544c4763.jpg",
+				"skuSaleUrl": "/product/1065",
+				"skuDesc": "戴尔（DELL）灵越飞匣15ER-4525B 15.6英寸大屏多彩笔记本电脑(i5-7200U 4G 500G M315 2G独显 FHD Win10) 官方标配",
+				"skuName": "官方标配"
+			},
+			"address": "上海黄浦区城区上海路888号44弄"
+		}, {
+			"orderInfo": {
+				"createOrderTime": "2017-07-17 14:49:20",
+				"orderStatus": -3,
+				"orderStatusTxt": "退货中，已填",
+				"orderNo": "PPD201707170000461",
+				"orderId": 3917,
+				"showBtn": 8,
+				"expressNo": "",
+				"expressName": ""
+			},
+			"skuInfo": {
+				"skuId": 1065,
+				"sellerTel":"88886666",
+				"skuImgUrl": "https://file11info.ppdai.com/df7b01b593874649965810b9544c4763.jpg",
+				"skuSaleUrl": "/product/1065",
+				"skuDesc": "戴尔（DELL）灵越飞匣15ER-4525B 15.6英寸大屏多彩笔记本电脑(i5-7200U 4G 500G M315 2G独显 FHD Win10) 官方标配",
+				"skuName": "官方标配"
+			},
+			"address": "上海黄浦区城区上海路888号44弄"
+		}, {
+			"orderInfo": {
+				"createOrderTime": "2017-07-17 14:49:20",
+				"orderStatus": -3,
+				"orderStatusTxt": "退货失败",
+				"orderNo": "PPD201707170000461",
+				"orderId": 3918,
+				"showBtn": 9,
+				"expressNo": "",
+				"expressName": ""
+			},
+			"skuInfo": {
+				"skuId": 1065,
+				"sellerTel":"88886666",
+				"skuImgUrl": "https://file11info.ppdai.com/df7b01b593874649965810b9544c4763.jpg",
+				"skuSaleUrl": "/product/1065",
+				"skuDesc": "戴尔（DELL）灵越飞匣15ER-4525B 15.6英寸大屏多彩笔记本电脑(i5-7200U 4G 500G M315 2G独显 FHD Win10) 官方标配",
+				"skuName": "官方标配"
+			},
+			"address": "上海黄浦区城区上海路888号44弄"
+		}]
+	}
+}

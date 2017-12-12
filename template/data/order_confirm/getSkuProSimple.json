@@ -1,0 +1,15 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS",
+	"responseContent": {
+		"id": 997,
+		"proName": "摩飞多功能家用果汁机MR9200",
+		"skuName": "蓝色",
+		"saleState": 1,
+		"price": 999,
+		"saleQuantity": 90,
+		"monthPayments": 93.55,
+		"months": 12,
+		"pictureUrl": "https://file11info.ppdai.com/27ef2b6cedf441608b7d0749a1272b63.jpg"
+	}
+}

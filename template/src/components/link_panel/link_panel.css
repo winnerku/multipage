@@ -1,0 +1,28 @@
+.panel{
+	color: #666;
+	width: 100%;
+	background: #fff;
+	font-size: 0.682667rem;
+	overflow: hidden;
+	margin-bottom: 0.853333rem;
+}
+.link_panel .panel .link_item{
+	overflow: hidden;
+	line-height: 2.133333rem;
+	display: block;
+	color: #666;
+	padding: 0 0.853333rem;
+	border-bottom: solid 1px #ededed;
+	position: relative;
+}
+.link_panel .panel .link_item img{
+	width: 0.597333rem;
+    margin-top: 0.597333rem;
+}
+.link_panel .panel .card_tip_show{
+    position: absolute;
+    left: 4.48rem;
+    top: 0;
+    color: #0abfff;
+    font-size: 0.64rem;
+}

@@ -1,0 +1,10 @@
+{
+	"code": 1,
+	"message": "SUCCESS",
+	"content": {
+		"productAmount": 1250,
+		"discountAmount": 100,
+		"payAmount": 1150,
+		"priceToken": "D2289FBE765AFDBBD1DD2FA367F4EB8A"
+	}
+}

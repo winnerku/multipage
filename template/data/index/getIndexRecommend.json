@@ -1,0 +1,19 @@
+{
+	"code": 1,
+	"message": "SUCCESS",
+	"content": [{
+		"name": "vivo X7网通手机 送一年碎屏险 金色64G",
+		"linkUrl": "/product/43",
+		"pictureUrl": "https://file11info.ppdai.com/2f15c99e9dd04bf893b42834a5fbc40f.jpg",
+		"price": 2498,
+		"monthPayments": 244.19,
+		"months": 12
+	}, {
+		"name": "【2017新款】苹果ipad 送一年碎屏险 金色32Gwifi版",
+		"linkUrl": "/product/57",
+		"pictureUrl": "https://file11info.ppdai.com/c864d66f2aae4f19bacf276627a30c24.png",
+		"price": 2538,
+		"monthPayments": 248.11,
+		"months": 12
+	}]
+}

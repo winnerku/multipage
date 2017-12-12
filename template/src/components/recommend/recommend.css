@@ -1,0 +1,81 @@
+.recommend{
+  padding:0.426667rem 0.426667rem;
+  background: #fff;
+  margin-bottom: 0.426667rem;
+}
+.recommend .title{
+	color: #333;
+	font-size: 0.853333rem;
+	margin-bottom: 0.426667rem;
+	line-height: 1.28rem;
+}
+.recommend .content{
+	width: 100%;
+}
+.recommend .pro_list{
+	margin-top: 0.426667rem;
+}
+.recommend .list_item{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	border:1px solid #ededed;
+	text-align: center;
+	width: 33.333%;
+	line-height: 0.213333rem;
+	position: relative;
+}
+.recommend .list_item .mark{
+	position: absolute;
+    top: 0;
+    left: 0.213333rem;
+    font-size: 12px;
+    background: #f80016;
+    line-height: 0.853333rem;
+    text-align: center;
+    color: #fff;
+    padding: 0 0.213333rem;
+    border-radius: 0.170667rem;
+}
+.recommend .list_item .markRight{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1.053333rem;
+}
+.recommend .list_item .markRight img{
+    width: 100%;
+    margin: 0;
+}
+.recommend .list_item .unit{
+	font-size: 0.554667rem;
+}
+.recommend .list_item .name{
+	margin-top: 0.426667rem;
+    overflow:hidden; 
+	text-overflow:ellipsis;
+    height: 1.551333rem;
+    -webkit-line-clamp: 2;
+    word-break: break-all;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    line-height: 0.768rem;
+    font-size: 12px;
+}
+.recommend .list_item p{
+    color: #666;
+    text-align: center;
+    font-size: 0.554667rem;
+    margin: 0 auto;
+    width: 90%;
+    line-height: 0.938667rem;
+}
+.recommend .list_item .stages{
+	font-size: 0.682667rem;/*16px*/
+	color: #0abfff;
+}
+.recommend .list_item img{
+	width: 4.096rem;
+	margin: 0.426667rem 0;
+}

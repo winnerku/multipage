@@ -1,0 +1,6 @@
+body,#app{
+    font-family:Helvetica;
+    width: 100%;
+    overflow-x: hidden;
+	background: #f0efef !important;
+}

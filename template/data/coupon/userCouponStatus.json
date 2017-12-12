@@ -1,0 +1,13 @@
+{
+    "code": 1,
+    "message": "SUCCESS",
+    "content": [{
+        "isClaim": true,
+        "userId": 0,
+        "couponId": 24
+    }, {
+        "isClaim": false,
+        "userId": 0,
+        "couponId": 25
+    }]
+}

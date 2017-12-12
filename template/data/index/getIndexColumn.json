@@ -1,0 +1,177 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS",
+	"responseContent": [{
+		"name": "手机通讯",
+		"moreUrl": "https://mstore.ppdai.com/category/1",
+		"advBananerList": [{
+			"name": "商品广告1",
+			"linkUrl": "https://pest.test.ppdaicorp.com/QCPlatForm/index.jsp",
+			"pictureUrl": "https://loanm.ppdaicdn.com/image/13.jpg",
+			"price": null,
+			"monthPayments": null,
+			"months": null
+		}],
+		"advProductList": [{
+			"name": "美的 5叶变频落地扇 FS40-15CR 白色FS40-15CR",
+			"linkUrl": "/product/1057",
+			"pictureUrl": "https://file11info.ppdai.com/e00fd50cc16e4bd88b5cca16e9d680c3.jpg",
+			"price": 399,
+			"monthPayments": 38.52,
+			"months": 12
+		}, {
+			"name": "美的 5叶变频落地扇 FS40-15CR 白色FS40-15CR",
+			"linkUrl": "/product/1057",
+			"pictureUrl": "https://file11info.ppdai.com/e00fd50cc16e4bd88b5cca16e9d680c3.jpg",
+			"price": 399,
+			"monthPayments": 38.52,
+			"months": 12
+		}, {
+			"name": "\t 美的 五叶遥控落地扇 FS40-13CR 黑色 FS40-13CR",
+			"linkUrl": "/product/1049",
+			"pictureUrl": "https://file11info.ppdai.com/1d33a508cfed457dbf5e7e7a0833b4ec.jpg",
+			"price": 229,
+			"monthPayments": 22.10,
+			"months": 12
+		}, {
+			"name": "美的（Midea）空气净化器KJ210G-C42 官方标配",
+			"linkUrl": "/product/1062",
+			"pictureUrl": "https://file11info.ppdai.com/75e01fdc57e844be989bd38267bd1ec7.jpg",
+			"price": 1198,
+			"monthPayments": 115.67,
+			"months": 12
+		}, {
+			"name": "戴尔（DELL）灵越飞匣15ER-4525B 15.6英寸大屏多彩笔记本电脑(i5-7200U 4G 500G M315 2G独显 FHD Win10) 官方标配",
+			"linkUrl": "/product/1065",
+			"pictureUrl": "https://file11info.ppdai.com/df7b01b593874649965810b9544c4763.jpg",
+			"price": 3699,
+			"monthPayments": 357.18,
+			"months": 12
+		}]
+	}, {
+		"name": "平板电脑",
+		"moreUrl": "https://mstore.ppdai.com/category/19",
+		"advBananerList": [{
+			"name": "首页平板电脑栏banner",
+			"linkUrl": "#",
+			"pictureUrl": "https://loanm.ppdaicdn.com/image/14.jpg",
+			"price": null,
+			"monthPayments": null,
+			"months": null
+		}],
+		"advProductList": [{
+			"name": "雷神Dino-X6 (15寸 i7-7700HQ 8G 128G固态+1TB GTX1060 6G 72%色域IPS RGB Win10) 官方标配",
+			"linkUrl": "/product/1013",
+			"pictureUrl": "https://file11info.ppdai.com/fa53835756794c138c5c5e5bfefbb03b.jpg",
+			"price": 9999,
+			"monthPayments": 965.52,
+			"months": 12
+		}, {
+			"name": "美的（Midea）除湿机 CF18BD/N3-DF 官方标配",
+			"linkUrl": "/product/1048",
+			"pictureUrl": "https://file11info.ppdai.com/5f95cfbcda0846f2855f32244034d616.jpg",
+			"price": 2099,
+			"monthPayments": 202.67,
+			"months": 12
+		}, {
+			"name": "东菱面包机BM-Y665 官方标配",
+			"linkUrl": "/product/964",
+			"pictureUrl": "https://file11info.ppdai.com/5b99520b53f84501a95127978ee46d41.jpg",
+			"price": 599,
+			"monthPayments": 57.83,
+			"months": 12
+		}]
+	}, {
+		"name": "数码周边",
+		"moreUrl": "https://mstore.ppdai.com/category/36",
+		"advBananerList": [{
+			"name": "shumazhoubian",
+			"linkUrl": "www.baidu.com",
+			"pictureUrl": "https://file11info.ppdai.com/ee4a38fc48f0443f8552213bc7f22ce9.png",
+			"price": null,
+			"monthPayments": null,
+			"months": null
+		}],
+		"advProductList": [{
+			"name": "伊莱克斯 EEK7804S电热水壶不锈钢防烫水壶保温烧水壶 不锈钢色",
+			"linkUrl": "/product/742",
+			"pictureUrl": "https://file11info.ppdai.com/4956d3605b12456f8377b414cf0714ef.png",
+			"price": 799,
+			"monthPayments": 77.14,
+			"months": 12
+		}, {
+			"name": "THERMOS膳魔师新品真空保温杯 JMF-501(BWG)  黄色",
+			"linkUrl": "/product/979",
+			"pictureUrl": "https://file11info.ppdai.com/77a6495c1a5844d1aec71ad99eea7884.jpg",
+			"price": 256,
+			"monthPayments": 24.71,
+			"months": 12
+		}, {
+			"name": "艾美特 落地扇 FSW65T2-5 黑色 FSW65T2-5",
+			"linkUrl": "/product/1037",
+			"pictureUrl": "https://file11info.ppdai.com/30a9490815c84b21be4207656b6fe035.jpg",
+			"price": 179,
+			"monthPayments": 17.27,
+			"months": 12
+		}]
+	}, {
+		"name": "家用电器",
+		"moreUrl": "https://mstore.ppdai.com/category/13",
+		"advBananerList": [{
+			"name": "商品广告22",
+			"linkUrl": "#",
+			"pictureUrl": "https://loanm.ppdaicdn.com/image/13.jpg",
+			"price": null,
+			"monthPayments": null,
+			"months": null
+		}],
+		"advProductList": [{
+			"name": "苹果/Apple iPhone 7 移动联通电信4G手机 玫瑰金128G",
+			"linkUrl": "/product/1",
+			"pictureUrl": "https://file11info.ppdai.com/c5772d14c2814d8288bffcc37cc7e5e1.jpg",
+			"price": 5499,
+			"monthPayments": 530.99,
+			"months": 12
+		}, {
+			"name": "苹果/Apple iPhone 7 移动联通电信4G手机 玫瑰金32G",
+			"linkUrl": "/product/3",
+			"pictureUrl": "https://file11info.ppdai.com/4c1c72da353d4ca68f1619a9baf42928.jpg",
+			"price": 4699,
+			"monthPayments": 453.73,
+			"months": 12
+		}]
+	}, {
+		"name": "更多好物",
+		"moreUrl": "https://mstore.ppdai.com/category/1",
+		"advBananerList": [{
+			"name": "更多好物",
+			"linkUrl": "www.baidu.com",
+			"pictureUrl": "https://file11info.ppdai.com/98b3704c0b784d8fad9c85522d319a37.png",
+			"price": null,
+			"monthPayments": null,
+			"months": null
+		}],
+		"advProductList": [{
+			"name": "飞利浦（Philips） 蒸汽电熨斗家用蒸汽熨衣 五档1900w陶瓷底 GC2046/88 紫色GC2046/88",
+			"linkUrl": "/product/1026",
+			"pictureUrl": "https://file11info.ppdai.com/344cec008dd8462284c536ddd4825a84.jpg",
+			"price": 249,
+			"monthPayments": 24.03,
+			"months": 12
+		}, {
+			"name": "摩飞多功能厨师机MR9030 红色",
+			"linkUrl": "/product/1000",
+			"pictureUrl": "https://file11info.ppdai.com/0a3ac54e94e44067a748dafeba1ff906.jpg",
+			"price": 1580,
+			"monthPayments": 152.56,
+			"months": 12
+		}, {
+			"name": "格兰仕(Galanz)微波炉/光波炉 G90F25CSLVIII-C2(G3) 不锈钢900W 不锈钢内胆 官方标配",
+			"linkUrl": "/product/894",
+			"pictureUrl": "https://file11info.ppdai.com/a05e209fb38d4739aa8801a1409db310.jpg",
+			"price": 1949,
+			"monthPayments": 188.19,
+			"months": 12
+		}]
+	}]
+}

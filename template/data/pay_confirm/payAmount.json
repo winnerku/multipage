@@ -1,0 +1,13 @@
+{
+	"code": 1,
+	"message": "请求成功",
+	"content": {
+		"orderAmount": 2200.00,
+		"payAmount": 2000.00,
+		"downPayment": 100.00,
+		"month": 12,
+		"mothPayment": 100.00,
+		"payType": 1,
+		"payMinutes": 12121
+	}
+}
