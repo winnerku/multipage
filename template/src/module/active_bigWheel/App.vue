@@ -10,7 +10,7 @@
       <img src="./imgs/choujiang_note.png">
       <div class="tip_box">
         <template v-for="item in scrollTipList">
-          <a href="javascript:;" v-if="item.isHit">恭喜{{item.userName+' '}}获得{{item.prizeName}}{{' '+item.quantity}}台</a>
+          <a href="javascript:;" v-if="item.isHit">恭喜itzou获得笔记本电脑1台</a>
         </template>
       </div>
     </section>
