@@ -18,7 +18,6 @@
               <p class="skuName">{{product.skuInfo.skuName}}</p>
               <p class="order_address">{{product.address}}</p>
               <p class="order_id">订单号：{{product.orderInfo.orderNo}}</p>
-              <p class="logistic_id" v-if="product.orderInfo.expressNo!=''&&product.orderInfo.expressName!=''">物流单号：{{product.orderInfo.expressName||isNull}}&nbsp;&nbsp;{{product.orderInfo.expressNo||isNull}}</p>
               <template v-if="product.orderInfo.showBtn==1">
                 <a href="javascript:;" @click="cancelClick(product.orderInfo.orderId)" class="orderCancel">•••</a>
                 <a href="javascript:;" class="operate" @click="toPay(product.orderInfo.orderNo,product.skuInfo.skuDesc)" :data-orderid="product.orderInfo.orderId" :data-productname="product.skuInfo.skuDesc">去付款</a>
