@@ -18,7 +18,7 @@ module.exports = {
       "type": "string",
       "required": false,
       "message": "Project description",
-      "default": "A Vue.js project"
+      "default": "A Vue project of two modes with multipage and SPA"
     },
     "author": {
       "type": "string",
