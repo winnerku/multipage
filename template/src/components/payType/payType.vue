@@ -22,15 +22,15 @@
           <input type="radio" name="typeName" value="1" :checked="defPay.payType!=1">
         </label>
         <div class="typeDetail">
-          <div v-if="cashPay.quickPay!==null" :class="defPay.payType==2?'bankPay active':'bankPay'" @touchend="payTypeChoose(2,cashPay.quickPay.quickChannels[0].bankId)">
+          <div v-if="cashPay.quickPay!==null" :class="defPay.payType==2?'bankPay active':'bankPay'" @touchend="payTypeChoose(2,223)">
             <div class="inline logo"><img :src="cashPay.quickPay.quickChannels[0].bankIconUrl"></div>
-            <div class="inline bankInfo"><p>银行卡支付</p><span>{{cashPay.quickPay.quickChannels[0].bankName}}（尾号{{cashPay.quickPay.quickChannels[0].cardSuffix}}）</span></div>
+            <div class="inline bankInfo"><p>银行卡支付</p><span>招行（尾号455）</span></div>
             <div class="inline right choose"><img src="./imgs/allPay.png"></div>
           </div>
           <div v-else-if="cashPay.quickPay===null" class="toBindCard">
             您暂未绑定银行卡，<a href="https://wappay.ppdai.com/PayNew/BankListNew">去绑卡>></a>
           </div>
-          <div v-if="cashPay.weChatPay!=null" :class="defPay.payType==3?'weixinPay active':'weixinPay'" @touchend="payTypeChoose(3,cashPay.weChatPay.payChannels[0].weId)">
+          <div v-if="cashPay.weChatPay!=null" :class="defPay.payType==3?'weixinPay active':'weixinPay'" @touchend="payTypeChoose(3,332)">
             <div class="inline logo"><img src="./imgs/weixin.png"></div>
             <div class="inline"><p>微信支付</p></div>
             <div class="inline right choose"><img src="./imgs/allPay.png"></div>
