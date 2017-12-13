@@ -1,7 +1,7 @@
 <template>
   <section class="pro_info">
     <div class="title">
-      {{proInfo.proName+" "+proInfo.skuName}}
+      戴尔DELL灵越飞匣15ER-4725B 15.6英寸大屏笔记本电脑(i7-7500U 4G 1T M315 2G独显 FHD Win10) 官方标配
     </div>
     <div class="content">
       <div class="price row">商城价：<span class="unit">￥</span><span class="number">{{proInfo.price}}</span></div>
