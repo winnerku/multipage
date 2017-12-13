@@ -3,11 +3,11 @@
       <div class="address_info" v-if="userData.length>0">
         <a href="/user/myaddress" class="address_link">
           <div class="user_info">
-            <span class="name">{{userData[0].consignee}}</span><span class="phone">{{userData[0].mobile}}</span>
+            <span class="name">itzou</span><span class="phone">13838385438</span>
           </div>
           <div class="address">
             <div class="left logo"><img src="./imgs/position.png"></div>
-            <div class="left text">{{userData[0].addressDetails}}</div>
+            <div class="left text">家里蹲大学城</div>
             <div class="right go"><img src="./imgs/right.png"></div>
           </div>
         </a>
