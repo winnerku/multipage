@@ -1,7 +1,3 @@
-# 分期商城前后端分离构建系统
-> mstore-build
-
-### git仓库地址：http://git.ppdaicorp.com/zoujie/mstore-build.git
 
 ## Build Setup
 
